@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computational text analysis on Brandon L. Kramer, PhD</title>
+    <link>/tags/computational-text-analysis/</link>
+    <description>Recent content in computational text analysis on Brandon L. Kramer, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/computational-text-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>International Collaboration in Open-Source Software</title>
+      <link>/projects/oss/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/oss/</guid>
+      <description>Link to the University of Virginia-Biocomplexity Institute&amp;rsquo;s Open-Source Software website.</description>
+    </item>
+    
+    <item>
+      <title>The Growth of Diversity in Biomedical Research</title>
+      <link>/projects/diversity/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts and Echoes</title>
+      <link>/projects/impacts-and-echoes/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/impacts-and-echoes/</guid>
+      <description>Wotecki, C. E., Kramer, B. L., Lancaster, V. &amp;amp; Cohen, S. “Impacts and Echoes: The Lasting Influence of the White House Conference on Food, Nutrition and Health.” Revise &amp;amp; Resubmit at Annual Review of Nutrition. Links to Interactive Website and GitHub Repository.
+The 1969 White House Conference on Food, Nutrition and Health was incredibly influential on the direction of food and nutrition policy in the United States. The conference produced recommendations leading to federal legislation and programs to alleviate hunger and malnutrition, improve consumer’s nutrition knowledge through education and labeling, and monitor the nutritional status of the population.</description>
+    </item>
+    
+  </channel>
+</rss>

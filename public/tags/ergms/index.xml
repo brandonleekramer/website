@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ergms on Brandon L. Kramer, PhD</title>
+    <link>/tags/ergms/</link>
+    <description>Recent content in ergms on Brandon L. Kramer, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ergms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Racialization as Relational Discourse</title>
+      <link>/projects/racialization-in-testosterone-research/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/racialization-in-testosterone-research/</guid>
+      <description>This paper is still in the writing phase. Link to GitHub Repository.
+Science &amp;amp; technology studies scholars have investigated on how race has been molecularized within scientific studies. And while existing research mainly leans on qualitative strategies such as ethnographies, interviews, and rigorous historical analysis, very little work to date has used social network analysis to study how racial difference is constructed in scientific literature. In this study, I use discourse analysis to first codify racialized claims in a sample of studies that test population differences in the hormone testosterone.</description>
+    </item>
+    
+    <item>
+      <title>Evidence Exchange in Federal Policymaking</title>
+      <link>/projects/evidence-exchange/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/evidence-exchange/</guid>
+      <description>Link to EPIK website and GitHub Repository.
+This project employs discourse analysis and social network analyis to measure the likelihood of evidence exchange in congressional hearings on childhood obesity from 2000-2014. More specifically, we use exponential random graph models (ERGMs) to test the factors that influence how policymakers share evidence in these hearings over time.</description>
+    </item>
+    
+  </channel>
+</rss>

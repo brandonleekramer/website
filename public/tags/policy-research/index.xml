@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>policy research on Brandon L. Kramer, PhD</title>
+    <link>/tags/policy-research/</link>
+    <description>Recent content in policy research on Brandon L. Kramer, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/policy-research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>International Collaboration in Open-Source Software</title>
+      <link>/projects/oss/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/oss/</guid>
+      <description>Link to the University of Virginia-Biocomplexity Institute&amp;rsquo;s Open-Source Software website.</description>
+    </item>
+    
+    <item>
+      <title>Impacts and Echoes</title>
+      <link>/projects/impacts-and-echoes/</link>
+      <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/impacts-and-echoes/</guid>
+      <description>Wotecki, C. E., Kramer, B. L., Lancaster, V. &amp;amp; Cohen, S. “Impacts and Echoes: The Lasting Influence of the White House Conference on Food, Nutrition and Health.” Revise &amp;amp; Resubmit at Annual Review of Nutrition. Links to Interactive Website and GitHub Repository.
+The 1969 White House Conference on Food, Nutrition and Health was incredibly influential on the direction of food and nutrition policy in the United States. The conference produced recommendations leading to federal legislation and programs to alleviate hunger and malnutrition, improve consumer’s nutrition knowledge through education and labeling, and monitor the nutritional status of the population.</description>
+    </item>
+    
+    <item>
+      <title>Evidence Exchange in Federal Policymaking</title>
+      <link>/projects/evidence-exchange/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/evidence-exchange/</guid>
+      <description>Link to EPIK website and GitHub Repository.
+This project employs discourse analysis and social network analyis to measure the likelihood of evidence exchange in congressional hearings on childhood obesity from 2000-2014. More specifically, we use exponential random graph models (ERGMs) to test the factors that influence how policymakers share evidence in these hearings over time.</description>
+    </item>
+    
+  </channel>
+</rss>

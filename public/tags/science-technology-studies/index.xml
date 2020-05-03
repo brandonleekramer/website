@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>science &amp; technology studies on Brandon L. Kramer, PhD</title>
+    <link>/tags/science-technology-studies/</link>
+    <description>Recent content in science &amp; technology studies on Brandon L. Kramer, PhD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/science-technology-studies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Growth of Diversity in Biomedical Research</title>
+      <link>/projects/diversity/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/diversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hair, Hormones, and Haunting</title>
+      <link>/projects/pcos/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/pcos/</guid>
+      <description>Carlin, L. &amp;amp; Kramer, B.L. (2020). “Hair, Hormones &amp;amp; Ghosts: How Race is Submerged in Polycystic Ovary Syndrome.” Science, Technology &amp;amp; Human Values. (Impact Factor = 3.160).
+In this paper, we examine how polycystic ovary syndrome (PCOS) is racialized in biomedical research. Drawing from Star’s seminal concept of triangulation, we analyze how the diagnostic criteria for PCOS combine two different biomarkers: body hair and testosterone. Hair and hormones are both haunted by their use in eugenic research, and as clinical measures, they can carry forward powerful narratives of biological difference.</description>
+    </item>
+    
+    <item>
+      <title>Molecularization at the Intersections</title>
+      <link>/projects/dissertation/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/dissertation/</guid>
+      <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
+Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
+    </item>
+    
+  </channel>
+</rss>
