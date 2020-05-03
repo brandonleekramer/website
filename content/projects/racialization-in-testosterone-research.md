@@ -1,0 +1,12 @@
+---
+title: "Racialization as Relational Discourse"
+description: "This ongoing project uses discourse network analysis to show how populations become racialized in testosterone research"
+date: 2020-05-03 
+tags: ["critical race studies","network analysis","qualitative methods","ergms","data viz"]
+weight: 1
+draft: false
+---
+
+This paper is still in the writing phase. Link to [GitHub Repository.](https://github.com/brandonleekramer/racialization-in-testosterone-research)
+
+Science & technology studies scholars have investigated on how race has been molecularized within scientific studies. And while existing research mainly leans on qualitative strategies such as ethnographies, interviews, and rigorous historical analysis, very little work to date has used social network analysis to study how racial difference is constructed in scientific literature. In this study, I use discourse analysis to first codify racialized claims in a sample of studies that test population differences in the hormone testosterone. In turn, I construct a citation network where these racialized claims link to other publications in the network - creating a relational field where racialized discourses can be studied visually and statistically over time. Although little evidence actually exists to support researcher’s claims of population differences in testosterone, this paper goes beyond this lack of evidence by deploying an inferential strategy known as exponential random graph modeling (i.e. logistic regression for network data) to test which factors about these publications actually drive tie formation (i.e. racialized claims) within the context of this discursive field. My results show that racialized claims are shaped by a number of  paper-level attributes such as scientific domain, the gender and location of the populations being studied, and the location of the researchers contributing to the manuscript in addition to various endogenous factors that control for the structure of the network. By synthesizing existing theories of the fields of bibliometrics and race & ethnicity studies, I not only provide a methodology that allows scholars to test racialization in science as a statistical phenomenon, but also provide STS scholars a framework to integrate observations from past and ongoing qualitative research that can formally test theories about the construction of racial difference in scientific research.
