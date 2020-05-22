@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 [params]
     author = "Brandon Kramer"
     description = "Postdoctoral Research Associate, Biocomplexity Institute, University of Virginia"
-    logo = "favicon/brandonlkramer.jpg"
+    logo = "favicon/brandonlkramer-cropped.png"
     twitterAuthor = "@brandonlkramer"
     githubUsername = "brandonleekramer"
     accent = "#386890" # dark colors do best

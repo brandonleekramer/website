@@ -8,7 +8,7 @@ In their [dissertation project](/projects/racialization-in-testosterone-research
 
 In addition to their sole-authored work, Brandon spends most of their time working on multidisciplinary team science projects. Since graduating, Brandon has worked on collaborative projects - both in and outside of UVA - that focus on the political history of nutrition science, the rise of "diversity" in biomedical research, international collaboration networks in open-source software development, evidence sharing in federal policy contexts, the use of machine learning to predict gentrification, and interactive visualizations to shape local policy discussions on economic mobility. You will find links to this work on the [projects tab](/projects).
 
-Brandon also spent ten years racing go-karts when we was younger - winning five national championships, five regional championships, and more than 70 races along the way. 
+Brandon also spent ten years racing go-karts when they were younger - winning five national championships, five regional championships, and more than 70 races along the way. 
 
 
 
