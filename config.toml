@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Brandon L. Kramer, PhD"
+title = "Brandon L. Kramer, Ph.D. "
 description = "Brandon L. Kramer, PhD - Postdoctoral Research Associate, Biocomplexity Institute, University of Virginia"
 theme = "min_night"
 disqusShortname = ""
@@ -18,7 +18,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     githubUsername = "brandonleekramer"
     accent = "#386890" # dark colors do best
     backgroundColor = "#f5f5f5"
-    font = "Mina" # should match the name on Google Fonts!
+    font = "Oxygen" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
@@ -35,7 +35,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 2
 
 [[menu.main]]
-    url = "/kramer-cv-0520.pdf"
+    url = "/kramer-cv-0720.pdf"
     name = "cv"
     weight = 3
 
