@@ -1,0 +1,19 @@
+---
+title: "Impacts and Echoes"
+description: "In this collaboration with Cathie Woteki (UVA/Iowa State), Vicki Lancaster (UVA) and Sam Cohen, we analyze the implications of the 1969 White House Conference on Food, Nutrition and Health."
+date: 2020-02-14
+tags: ["policy research","health","nlp","viz"]
+weight: 49
+draft: false
+output: html_document
+---
+
+**Wotecki, C. E., Kramer, B. L., Lancaster, V. & Cohen, S. (2020). “Impacts and Echoes: The Lasting Influence of the White House Conference on Food, Nutrition and Health.” [*Annual Review of Nutrition.*](https://www.annualreviews.org/doi/abs/10.1146/annurev-nutr-121619-045319) [Impact Factor = 10.897] [[GitHub Repo](https://github.com/uva-bi-sdad/impacts-and-echoes)] [[Project Abstract](https://impacts-and-echoes.netlify.app/description/)]**
+
+<font size="2"> 
+
+![This is text network of 1969 White House Conference Report where important terms used in the text are represented as bubbles (or nodes) with connections (or ties) corresponding to how often those terms are used together in the report. While the size of each node tells us how many total connections a term has to other words in the text, the width of the ties illustrates the number of times terms were used next to each other in the final report.  ](/projects/impacts-and-echoes_files/whc-network.jpg)
+
+</font>
+
+The 1969 White House Conference on Food, Nutrition and Health was incredibly influential on the direction of food and nutrition policy in the United States. The conference produced recommendations leading to federal legislation and programs to alleviate hunger and malnutrition, improve consumer’s nutrition knowledge through education and labeling, and monitor the nutritional status of the population. Fifty years later, the conference’s legacy was revisited at a conference convened by Harvard University and Tufts University. This project reviews the literature contributing to the first author’s keynote speech at the conference, its influencers, and influences. We focus on the highlights of five domains that set the stage for the conference: social, food, nutrition science, public health data, and policy events. In the paper, we briefly describe the conference, its proposed directions, and its lasting legacy in these five domains. [We have also developed a website](https://impacts-and-echoes.netlify.app/) with interactive timelines to visualize the major events of the past 50 years, analyze the 1969 White House Conference Report with the use of computational text analysis and text networks, and conduct some preliminary text analysis of the nutrition literature before and after 1990.

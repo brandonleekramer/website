@@ -6,6 +6,7 @@ theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
+#publishDir = "docs"
 
 [permalinks]
     content = "/:year/:month/:day/"
@@ -17,15 +18,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     twitterAuthor = "@brandonlkramer"
     githubUsername = "brandonleekramer"
     accent = "#386890" # dark colors do best
-    backgroundColor = "#f5f5f5"
+    backgroundColor = "#FFFFFF"
     font = "Oxygen" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "lakeside-light" # make this match accent
     highlightLanguages = ["r", "bash", "go"]
 
 # adjust these as you see fit
+
 [[menu.main]]
-    url = "/" 
+    url = "/"
     name = "home"
     weight = 1
 
@@ -35,7 +37,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 2
 
 [[menu.main]]
-    url = "/kramer-cv-0720.pdf"
+    url = "/kramer-cv-0920.pdf"
     name = "cv"
     weight = 3
 

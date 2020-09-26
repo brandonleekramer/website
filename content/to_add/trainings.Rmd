@@ -1,0 +1,36 @@
+---
+title: "Untitled"
+author: "Brandon"
+date: "8/9/2020"
+output: html_document
+---
+
+## DSPG 
+
+https://datascienceforthepublicgood.org/events/symposium2020
+https://dspg-young-scholars-program.github.io/dspg20oss/
+https://dspg-young-scholars-program.github.io/dspg20fairfax/
+https://dspg-young-scholars-program.github.io/dspg2020amsoldier/
+https://teja.shinyapps.io/patrickdash/
+
+## Biosocial training 
+Embed links for training videos 
+
+## Networks  
+Basic network training video 
+Getting started in Gephi 
+Making visuals in Gephi 
+
+## Websites 
+Download templates 
+Editing CSS and html 
+Deploying to GitHub pages 
+Deploying to Netlify 
+
+## Links to courses 
+
+
+
+
+
+
