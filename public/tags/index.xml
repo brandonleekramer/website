@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Brandon L. Kramer, Ph.D. </title>
+    <title>Tags on Brandon L. Kramer, Ph.D.</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Brandon L. Kramer, Ph.D. </description>
+    <description>Recent content in Tags on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
@@ -62,6 +62,15 @@
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/web-harvesting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethics</title>
+      <link>/tags/ethics/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ethics/</guid>
       <description></description>
     </item>
     
@@ -125,6 +134,24 @@
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geospatial</title>
+      <link>/tags/geospatial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geospatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictive modeling</title>
+      <link>/tags/predictive-modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/predictive-modeling/</guid>
       <description></description>
     </item>
     

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>policy research on Brandon L. Kramer, Ph.D. </title>
+    <title>policy research on Brandon L. Kramer, Ph.D.</title>
     <link>/tags/policy-research/</link>
-    <description>Recent content in policy research on Brandon L. Kramer, Ph.D. </description>
+    <description>Recent content in policy research on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
@@ -18,6 +18,16 @@
       
       <guid>/projects/oss/</guid>
       <description>Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public.</description>
+    </item>
+    
+    <item>
+      <title>Gentrification in Fairfax County, VA</title>
+      <link>/projects/gentrification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/gentrification/</guid>
+      <description>Pristavec. P., Kramer, B. L., &amp;amp; Goldstein, J. “Using Publically Available Data to Understand Neighborhood Change and Mitigate Gentrification: A Case Study from Fairfax County, VA.” [GitHub Repo]
+  Gentrification refers to the process of areas experiencing an influx of affluent or college-educated residents and businesses, leading to displacement of long-term residents and vulnerable populations. Although research documents gentrification extensively, local governments often lack resources to detect its emergence and mitigate negative community impacts.</description>
     </item>
     
     <item>

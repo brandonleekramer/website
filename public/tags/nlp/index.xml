@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nlp on Brandon L. Kramer, Ph.D. </title>
+    <title>nlp on Brandon L. Kramer, Ph.D.</title>
     <link>/tags/nlp/</link>
-    <description>Recent content in nlp on Brandon L. Kramer, Ph.D. </description>
+    <description>Recent content in nlp on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
@@ -12,22 +12,22 @@
     
     
     <item>
+      <title>The Growth of Diversity in Biomedical Research</title>
+      <link>/projects/diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/diversity/</guid>
+      <description>Kramer, B. &amp;amp; Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
+  While existing research on race and affirmative action have detailed the growth of diversity projects in education and employment that obfuscate the language of race and racism, the field of science &amp;amp; technology studies have documented scientists persistent attempts to molecularize race in biomedical research. In this paper, we employ computational text analysis to examine quantitative trends in the use of diversity terms, OMB/Census terms, and other population labels in a sample of 2.</description>
+    </item>
+    
+    <item>
       <title>Measuring the Scope and Impact of Open-Source Software</title>
       <link>/projects/oss/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
       <guid>/projects/oss/</guid>
       <description>Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public.</description>
-    </item>
-    
-    <item>
-      <title>The Growth of Diversity in Biomedical Research</title>
-      <link>/projects/diversity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/diversity/</guid>
-      <description>Kramer, B. &amp;amp; Lee, C. “The Growth of Diversity in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
-  While existing research on race and affirmative action have documented the growth of diversity projects in education and employment, the field of science &amp;amp; technology studies have documented the persistence of scientists to molecularize race in biomedical research. In our paper, we employ computational text analysis to examine quantitative patterns in the use of diversity and population-specific terminology in biomedical research over the course of the past three decades.</description>
     </item>
     
     <item>

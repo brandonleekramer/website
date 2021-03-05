@@ -3,7 +3,7 @@ title: "Measuring the Scope and Impact of Open-Source Software"
 description: "This ongoing collaboration with UVA and the National Center for Science and Engineering Statistics, we use web scraping, computational text analysis and network analysis to measure the scope and impact of open-source software development."
 date: 2020-05-03
 tags: ["policy research", "oss", "networks","nlp", "web harvesting", "viz"]
-weight: 2
+weight: 3
 draft: false
 output: html_document
 ---

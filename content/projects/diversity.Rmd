@@ -1,16 +1,16 @@
 ---
 title: "The Growth of Diversity in Biomedical Research"
-description: "This ongoing collaborative project with Catherine Lee (Rutgers Sociology) uses computational text analysis to study the use of diversity and population terms in biomedical research from 1990-2018"
-tags: ["sts", "race","nlp", "viz"]
-weight: 3
+description: "This ongoing collaborative project with Catherine Lee (Rutgers Sociology) uses computational text analysis to study the use of diversity and population terms in ~2.6M biomedical abstracts from 1990-2020"
+tags: ["sts", "race","nlp", "viz","ethics"]
+weight: 2
 draft: false
 output: html_document
 ---
 
-**Kramer, B. & Lee, C. "The Growth of Diversity in Biomedical Research" *In Progress.* [[Project Website](https://growthofdiversity.netlify.app/)] [[GitHub Repo](https://github.com/brandonleekramer/diversity)]** 
+**Kramer, B. & Lee, C. "The Rise of Diversity and Population Terminology in Biomedical Research" *In Progress.* [[Project Website](https://growthofdiversity.netlify.app/)] [[GitHub Repo](https://github.com/brandonleekramer/diversity)]** 
 
 <center>
 ![](/projects/diversity_files/diversity-network.png)
 </center>
 
-While existing research on race and affirmative action have documented the growth of diversity projects in education and employment, the field of science & technology studies have documented the persistence of scientists to molecularize race in biomedical research. In our paper, we employ computational text analysis to examine quantitative patterns in the use of diversity and population-specific terminology in biomedical research over the course of the past three decades. Drawing from two large samples of scientific abstracts, we document trends in both the raw and proportional usage of diversity and population-specific terminology over the past three decades. The study demonstrates a pronounced growth in the use of diversity-related terminology, including terms like diversity, race/ethnicity, and sex/gender. Moreover, while our results demonstrate that population terminology has grown dramatically over that same period, we note that specific kinds of population terms have varied in ways that previous research may not have suspected. Most notably, we find that the use of national and continental-specific terms continue to rise over the full extent of our analysis window while terms like race and ethnicity and other terms deriving from the US Census categories have become less prevalent over the past decade. Together, our work points to a quantitative shift towards biomedical researchers enacting population distinctions that rely on geographical distinctions rather than racial and ethnic classifiers.
+While existing research on race and affirmative action have detailed the growth of diversity projects in education and employment that obfuscate the language of race and racism, the field of science & technology studies have documented scientists persistent attempts to molecularize race in biomedical research. In this paper, we employ computational text analysis to examine quantitative trends in the use of diversity terms, OMB/Census terms, and other population labels in a sample of 2.6+ million biomedical abstracts spanning the last 30 years. These analyses demonstrate that while racial, ethnic, and OMB/Census terms have mostly stagnated during the past 15 years, the use of “diversity” continues to rise, suggesting that biomedical researchers increasingly use a different grammar to construct population differences. We also observe that some population labels have grown dramatically with specific kinds of population terms outpacing others. Most notably, we find that the use of national and continental terms rose exponentially while terms like race and OMB/Census labels have actually dropped over the past decade. Together, our work points to a potential shift in the way that biomedical researchers enact population distinctions, relying more on biogeographical labels rather than racial or ethnic classifiers. Overall, this work not only informs STS and bioethics scholars’ research on the politics of diversity in biomedical research, but also shares a novel set of methodological tools, including open source software and a new public dataset, to research this topic. 

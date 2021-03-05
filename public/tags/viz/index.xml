@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>viz on Brandon L. Kramer, Ph.D. </title>
+    <title>viz on Brandon L. Kramer, Ph.D.</title>
     <link>/tags/viz/</link>
-    <description>Recent content in viz on Brandon L. Kramer, Ph.D. </description>
+    <description>Recent content in viz on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/viz/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Growth of Diversity in Biomedical Research</title>
+      <link>/projects/diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/diversity/</guid>
+      <description>Kramer, B. &amp;amp; Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
+  While existing research on race and affirmative action have detailed the growth of diversity projects in education and employment that obfuscate the language of race and racism, the field of science &amp;amp; technology studies have documented scientists persistent attempts to molecularize race in biomedical research. In this paper, we employ computational text analysis to examine quantitative trends in the use of diversity terms, OMB/Census terms, and other population labels in a sample of 2.</description>
+    </item>
     
     <item>
       <title>Measuring the Scope and Impact of Open-Source Software</title>
@@ -21,13 +31,13 @@
     </item>
     
     <item>
-      <title>The Growth of Diversity in Biomedical Research</title>
-      <link>/projects/diversity/</link>
+      <title>Gentrification in Fairfax County, VA</title>
+      <link>/projects/gentrification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/diversity/</guid>
-      <description>Kramer, B. &amp;amp; Lee, C. “The Growth of Diversity in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
-  While existing research on race and affirmative action have documented the growth of diversity projects in education and employment, the field of science &amp;amp; technology studies have documented the persistence of scientists to molecularize race in biomedical research. In our paper, we employ computational text analysis to examine quantitative patterns in the use of diversity and population-specific terminology in biomedical research over the course of the past three decades.</description>
+      <guid>/projects/gentrification/</guid>
+      <description>Pristavec. P., Kramer, B. L., &amp;amp; Goldstein, J. “Using Publically Available Data to Understand Neighborhood Change and Mitigate Gentrification: A Case Study from Fairfax County, VA.” [GitHub Repo]
+  Gentrification refers to the process of areas experiencing an influx of affluent or college-educated residents and businesses, leading to displacement of long-term residents and vulnerable populations. Although research documents gentrification extensively, local governments often lack resources to detect its emergence and mitigate negative community impacts.</description>
     </item>
     
     <item>
