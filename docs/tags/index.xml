@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Brandon L. Kramer, Ph.D. </title>
+    <title>Tags on Brandon L. Kramer, Ph.D.</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Brandon L. Kramer, Ph.D. </description>
+    <description>Recent content in Tags on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
@@ -12,56 +12,29 @@
     
     
     <item>
-      <title>computational text analysis</title>
-      <link>/tags/computational-text-analysis/</link>
+      <title>networks</title>
+      <link>/tags/networks/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/computational-text-analysis/</guid>
+      <guid>/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>critical race studies</title>
-      <link>/tags/critical-race-studies/</link>
+      <title>nlp</title>
+      <link>/tags/nlp/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/critical-race-studies/</guid>
+      <guid>/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>data viz</title>
-      <link>/tags/data-viz/</link>
+      <title>oss</title>
+      <link>/tags/oss/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-viz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ergms</title>
-      <link>/tags/ergms/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ergms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>network analysis</title>
-      <link>/tags/network-analysis/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/network-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source software</title>
-      <link>/tags/open-source-software/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/open-source-software/</guid>
+      <guid>/tags/oss/</guid>
       <description></description>
     </item>
     
@@ -75,29 +48,11 @@
     </item>
     
     <item>
-      <title>qualitative</title>
-      <link>/tags/qualitative/</link>
+      <title>viz</title>
+      <link>/tags/viz/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/qualitative/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>qualitative methods</title>
-      <link>/tags/qualitative-methods/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/qualitative-methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>science &amp; technology studies</title>
-      <link>/tags/science-technology-studies/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/science-technology-studies/</guid>
+      <guid>/tags/viz/</guid>
       <description></description>
     </item>
     
@@ -111,6 +66,15 @@
     </item>
     
     <item>
+      <title>ethics</title>
+      <link>/tags/ethics/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ethics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>gender</title>
       <link>/tags/gender/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
@@ -120,45 +84,45 @@
     </item>
     
     <item>
-      <title>gender studies</title>
-      <link>/tags/gender-studies/</link>
+      <title>health</title>
+      <link>/tags/health/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gender-studies/</guid>
+      <guid>/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>health disparities</title>
-      <link>/tags/health-disparities/</link>
+      <title>qualitative</title>
+      <link>/tags/qualitative/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/health-disparities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>networks</title>
-      <link>/tags/networks/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/networks/</guid>
+      <guid>/tags/qualitative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>race</title>
       <link>/tags/race/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/race/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>sts</title>
+      <link>/tags/sts/</link>
+      <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>experiments</title>
       <link>/tags/experiments/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/experiments/</guid>
       <description></description>
@@ -167,18 +131,27 @@
     <item>
       <title>social neuroscience</title>
       <link>/tags/social-neuroscience/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>/tags/social-neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>dissertation</title>
-      <link>/tags/dissertation/</link>
-      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <title>geospatial</title>
+      <link>/tags/geospatial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/dissertation/</guid>
+      <guid>/tags/geospatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>predictive modeling</title>
+      <link>/tags/predictive-modeling/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/predictive-modeling/</guid>
       <description></description>
     </item>
     

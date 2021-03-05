@@ -6,15 +6,15 @@ theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
-#publishDir = "docs"
+publishDir = "docs"
 
 [permalinks]
     content = "/:year/:month/:day/"
 
 [params]
     author = "Brandon Kramer"
-    description = "Postdoctoral Research Associate, Biocomplexity Institute, University of Virginia"
-    logo = "favicon/brandonlkramer-cropped.png"
+    description = "Social Scientist/Data Scientist"
+    logo = "favicon/blk-cropped.png"
     twitterAuthor = "@brandonlkramer"
     githubUsername = "brandonleekramer"
     accent = "#386890" # dark colors do best
