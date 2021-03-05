@@ -2,156 +2,156 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Brandon L. Kramer, Ph.D.</title>
-    <link>/tags/</link>
+    <link>/home/tags/</link>
     <description>Recent content in Tags on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>networks</title>
-      <link>/tags/networks/</link>
+      <link>/home/tags/networks/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/networks/</guid>
+      <guid>/home/tags/networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>nlp</title>
-      <link>/tags/nlp/</link>
+      <link>/home/tags/nlp/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/nlp/</guid>
+      <guid>/home/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>oss</title>
-      <link>/tags/oss/</link>
+      <link>/home/tags/oss/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/oss/</guid>
+      <guid>/home/tags/oss/</guid>
       <description></description>
     </item>
     
     <item>
       <title>policy research</title>
-      <link>/tags/policy-research/</link>
+      <link>/home/tags/policy-research/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/policy-research/</guid>
+      <guid>/home/tags/policy-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>viz</title>
-      <link>/tags/viz/</link>
+      <link>/home/tags/viz/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/viz/</guid>
+      <guid>/home/tags/viz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>web harvesting</title>
-      <link>/tags/web-harvesting/</link>
+      <link>/home/tags/web-harvesting/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/web-harvesting/</guid>
+      <guid>/home/tags/web-harvesting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ethics</title>
-      <link>/tags/ethics/</link>
+      <link>/home/tags/ethics/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ethics/</guid>
+      <guid>/home/tags/ethics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gender</title>
-      <link>/tags/gender/</link>
+      <link>/home/tags/gender/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gender/</guid>
+      <guid>/home/tags/gender/</guid>
       <description></description>
     </item>
     
     <item>
       <title>health</title>
-      <link>/tags/health/</link>
+      <link>/home/tags/health/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/health/</guid>
+      <guid>/home/tags/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>qualitative</title>
-      <link>/tags/qualitative/</link>
+      <link>/home/tags/qualitative/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/qualitative/</guid>
+      <guid>/home/tags/qualitative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>race</title>
-      <link>/tags/race/</link>
+      <link>/home/tags/race/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/race/</guid>
+      <guid>/home/tags/race/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sts</title>
-      <link>/tags/sts/</link>
+      <link>/home/tags/sts/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sts/</guid>
+      <guid>/home/tags/sts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>experiments</title>
-      <link>/tags/experiments/</link>
+      <link>/home/tags/experiments/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/experiments/</guid>
+      <guid>/home/tags/experiments/</guid>
       <description></description>
     </item>
     
     <item>
       <title>social neuroscience</title>
-      <link>/tags/social-neuroscience/</link>
+      <link>/home/tags/social-neuroscience/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/social-neuroscience/</guid>
+      <guid>/home/tags/social-neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>geospatial</title>
-      <link>/tags/geospatial/</link>
+      <link>/home/tags/geospatial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/geospatial/</guid>
+      <guid>/home/tags/geospatial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>predictive modeling</title>
-      <link>/tags/predictive-modeling/</link>
+      <link>/home/tags/predictive-modeling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/predictive-modeling/</guid>
+      <guid>/home/tags/predictive-modeling/</guid>
       <description></description>
     </item>
     

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>To_adds on Brandon L. Kramer, Ph.D.</title>
-    <link>/to_add/</link>
+    <link>/home/to_add/</link>
     <description>Recent content in To_adds on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/to_add/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/to_add/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Untitled</title>
-      <link>/to_add/trainings/</link>
+      <link>/home/to_add/trainings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/to_add/trainings/</guid>
+      <guid>/home/to_add/trainings/</guid>
       <description> DSPG https://datascienceforthepublicgood.org/events/symposium2020 https://dspg-young-scholars-program.github.io/dspg20oss/ https://dspg-young-scholars-program.github.io/dspg20fairfax/ https://dspg-young-scholars-program.github.io/dspg2020amsoldier/ https://teja.shinyapps.io/patrickdash/
  Biosocial training Embed links for training videos
  Networks Basic network training video Getting started in Gephi Making visuals in Gephi

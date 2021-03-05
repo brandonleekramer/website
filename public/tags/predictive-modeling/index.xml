@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>predictive modeling on Brandon L. Kramer, Ph.D.</title>
-    <link>/tags/predictive-modeling/</link>
+    <link>/home/tags/predictive-modeling/</link>
     <description>Recent content in predictive modeling on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/tags/predictive-modeling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/tags/predictive-modeling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Gentrification in Fairfax County, VA</title>
-      <link>/projects/gentrification/</link>
+      <link>/home/projects/gentrification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/gentrification/</guid>
+      <guid>/home/projects/gentrification/</guid>
       <description>Pristavec. P., Kramer, B. L., &amp;amp; Goldstein, J. “Using Publically Available Data to Understand Neighborhood Change and Mitigate Gentrification: A Case Study from Fairfax County, VA.” [GitHub Repo]
   Gentrification refers to the process of areas experiencing an influx of affluent or college-educated residents and businesses, leading to displacement of long-term residents and vulnerable populations. Although research documents gentrification extensively, local governments often lack resources to detect its emergence and mitigate negative community impacts.</description>
     </item>
