@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>web harvesting on Brandon L. Kramer, Ph.D.</title>
-    <link>/tags/web-harvesting/</link>
+    <link>https://brandonleekramer.github.io/about/tags/web-harvesting/</link>
     <description>Recent content in web harvesting on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/web-harvesting/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://brandonleekramer.github.io/about/tags/web-harvesting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Measuring the Scope and Impact of Open-Source Software</title>
-      <link>/projects/oss/</link>
+      <link>https://brandonleekramer.github.io/about/projects/oss/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/oss/</guid>
+      <guid>https://brandonleekramer.github.io/about/projects/oss/</guid>
       <description>Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public.</description>
     </item>
     
