@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>networks on Brandon L. Kramer, Ph.D.</title>
-    <link>https://brandonleekramer.github.io/about/tags/networks/</link>
+    <link>/tags/networks/</link>
     <description>Recent content in networks on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://brandonleekramer.github.io/about/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Racialization in Testosterone Research</title>
-      <link>https://brandonleekramer.github.io/about/projects/race-in-testosterone-research/</link>
+      <link>/projects/race-in-testosterone-research/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brandonleekramer.github.io/about/projects/race-in-testosterone-research/</guid>
+      <guid>/projects/race-in-testosterone-research/</guid>
       <description>Kramer, B.L. (2020) “The Molecularization of Race in Testosterone Research.” BioSocieties. GitHub Repo.
 While feminist science studies scholars have documented the misleading and dangerous implica-tions of reducing testosterone to a “sex hormone,” few studies have explored how testosterone is used to racialize populations in and beyond scientific research. In this article, I conduct a content analysis of 149 studies that evaluate population differences in testosterone. Despite widespread claims that testosterone varies between racial groups, my analysis of this literature provides scant evidence to support these proclamations, undermining the notion that testosterone contributes to racial differences in biomedical and biosocial outcomes.</description>
     </item>
     
     <item>
       <title>Measuring the Scope and Impact of Open-Source Software</title>
-      <link>https://brandonleekramer.github.io/about/projects/oss/</link>
+      <link>/projects/oss/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://brandonleekramer.github.io/about/projects/oss/</guid>
+      <guid>/projects/oss/</guid>
       <description>Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public.</description>
     </item>
     
     <item>
       <title>Molecularization at the Intersections</title>
-      <link>https://brandonleekramer.github.io/about/projects/dissertation/</link>
+      <link>/projects/dissertation/</link>
       <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brandonleekramer.github.io/about/projects/dissertation/</guid>
+      <guid>/projects/dissertation/</guid>
       <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
 Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
     </item>
     
     <item>
       <title>Evidence Exchange in Federal Policymaking</title>
-      <link>https://brandonleekramer.github.io/about/projects/evidence-exchange/</link>
+      <link>/projects/evidence-exchange/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://brandonleekramer.github.io/about/projects/evidence-exchange/</guid>
+      <guid>/projects/evidence-exchange/</guid>
       <description>Kramer, B., Weber, M. &amp;amp; Yanovitsky, I. Networks of Evidence Use in the Context of Federal Childhood Obesity Policymaking. In Progress. [GitHub Repo] [EPIK website]
 Despite considerable interest in strategies for promoting evidence-informed policymaking, research that tracks and analyzes use of research evidence in public policymaking is scarce. We use social network analysis to trace the flow of research evidence in the context of childhood obesity legislation from 2000-2014. Network analysis is used to examine how political homophily, or policymakers’ shared group affiliations, and various structural characteristics of the policy network influence evidence exchange over this period.</description>
     </item>
