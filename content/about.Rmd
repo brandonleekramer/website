@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5 {
 
 #### 
 
-Brandon Kramer, Ph.D. is a Postdoctoral Research Associate in the Social and Decision Analytics Division at the University of Virginia's Biocomplexity Institute. Brandon generally researches ethics and inequality at the intersection of science, technology, politics, and health. While formally trained as a sociologist, Brandon is interested in using aspects of data science and science & technology studies to address a range of social and policy concerns. His work has been published in the *Annual Review of Nutrition*, *Science, Technology & Human Values*, *BioSocieties*, and *Annals of Behavioral Medicine*. Brandon is currently looking for an Assistant Professor position in academia or for a research/data scientist position in goverment or tech. 
+Brandon Kramer, Ph.D. is a Postdoctoral Research Associate in the Social and Decision Analytics Division at the University of Virginia's Biocomplexity Institute. Brandon is generally interested in researching inequality and ethics at the intersection of science, technology, politics, and health. While formally trained as a sociologist, Brandon is interested in using aspects of data science and science & technology studies to address a range of social and policy concerns. His work has been published in the *Annual Review of Nutrition*, *Science, Technology & Human Values*, *BioSocieties*, and *Annals of Behavioral Medicine*. Brandon is currently looking for an Assistant Professor position in academia or for a research/data scientist position in goverment or tech. 
 
 #### Dissertation Research 
 
