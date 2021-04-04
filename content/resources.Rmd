@@ -1,0 +1,46 @@
+---
+output: html_document
+---
+
+```{css, echo=FALSE}
+/* this chunnk of code centers all of the headings */
+h1, h2, h3, h4, h5 {
+  text-align: center;
+}
+```
+
+#### <ins>Online Tutorials</ins> 
+
+<center>
+
+Making Websites in Hugo/Blogdown
+
+[Full DSPG Training](https://youtu.be/2oQMCdAtfm8) - [8-Minute Version](https://www.youtube.com/watch?v=5nFmzO1fWzI)
+
+Mindware Cardiovascular Data Cleaning Tutorial
+
+[Part 1](https://www.youtube.com/watch?v=HYU3Fwaobl8) - [Part 2](https://www.youtube.com/watch?v=tAydZeGFleI&t=) - [Part 3](https://www.youtube.com/watch?v=S3RsVh-MClU) - [Part 4](https://www.youtube.com/watch?v=MlTpCBPImhE) - [Part 5](https://www.youtube.com/watch?v=UZ6yraMquVw) - [Part 6](https://www.youtube.com/watch?v=adFf04yDVEM) - [Part 7](https://www.youtube.com/watch?v=dz6InnkkrJ4)
+
+</center>
+
+<br>
+
+#### <ins>Course Syllabus</ins>
+
+<center>
+
+[Sociology of Medicine and Healthcare (Rutgers - Fall 2017)](/Kramer_SMHC2017_Syllabus.pdf)
+
+</center>
+
+<br>
+
+#### <ins>Research Links</ins>
+
+<center>
+
+[Interactive Resources on the History of Racism in the USA](https://docs.google.com/spreadsheets/d/1itAkPqMUH059j-Lkd78xqZky947zlbgM9ZjdBkqUQw8/edit#gid=0)
+
+[Word Embeddings in the Social Sciences ](https://docs.google.com/spreadsheets/d/1hpaagIMbw2DoJRhWiQEC6r1jr956bj2iZDNv3L7opYI/edit#gid=0)
+
+</center>
