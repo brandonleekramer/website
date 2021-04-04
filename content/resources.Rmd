@@ -9,7 +9,7 @@ h1, h2, h3, h4, h5 {
 }
 ```
 
-#### <ins>Online Tutorials</ins> 
+#### <ins>**Online Tutorials**</ins> 
 
 <center>
 
@@ -21,11 +21,13 @@ Mindware Cardiovascular Data Cleaning Tutorial
 
 [Part 1](https://www.youtube.com/watch?v=HYU3Fwaobl8) - [Part 2](https://www.youtube.com/watch?v=tAydZeGFleI&t=) - [Part 3](https://www.youtube.com/watch?v=S3RsVh-MClU) - [Part 4](https://www.youtube.com/watch?v=MlTpCBPImhE) - [Part 5](https://www.youtube.com/watch?v=UZ6yraMquVw) - [Part 6](https://www.youtube.com/watch?v=adFf04yDVEM) - [Part 7](https://www.youtube.com/watch?v=dz6InnkkrJ4)
 
+[Using Web of Science Data for Social Network Analysis in Gephi](https://docs.google.com/document/d/1chzoK4gzS4IMBs3wj-0xNSxBoR1qdKi1jVqempU9BmI/edit?usp=sharing)
+
 </center>
 
 <br>
 
-#### <ins>Course Syllabus</ins>
+#### <ins>**Course Syllabus**</ins>
 
 <center>
 
@@ -35,12 +37,14 @@ Mindware Cardiovascular Data Cleaning Tutorial
 
 <br>
 
-#### <ins>Research Links</ins>
+#### <ins>**Research Links**</ins>
 
 <center>
 
 [Interactive Resources on the History of Racism in the USA](https://docs.google.com/spreadsheets/d/1itAkPqMUH059j-Lkd78xqZky947zlbgM9ZjdBkqUQw8/edit#gid=0)
 
 [Word Embeddings in the Social Sciences ](https://docs.google.com/spreadsheets/d/1hpaagIMbw2DoJRhWiQEC6r1jr956bj2iZDNv3L7opYI/edit#gid=0)
+
+[Open Source Software Literature](https://docs.google.com/spreadsheets/d/1xk1t6HQsnYijHUTHFqOzV3CePQa3HF-X7B6quoy0CUw/edit#gid=0)
 
 </center>
