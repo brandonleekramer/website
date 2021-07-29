@@ -38,24 +38,26 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 2
 
 [[menu.main]]
-    url = "/Kramer_Resume_0721.pdf"
-    name = "Resume"
-    weight = 3
-
-[[menu.main]]
     url = "/publications/"
     name = "Publications"
+    weight = 3
+    
+[[menu.main]]
+    url = "/teaching/"
+    name = "Teaching"
     weight = 4
 
 [[menu.main]]
-    url = "/projects/"
-    name = "Projects"
+    url = "/Kramer_Resume_0721.pdf"
+    name = "Resume"
     weight = 5
-    
+
 [[menu.main]]
-    url = "/resources/"
-    name = "Resources"
+    url = "/projects/"
+    name = "Portfolio"
     weight = 6
+    
+
 
 # Social icons to be shown on the right-hand side of the navigation bar
 # The "name" field should match the name of the icon to be used

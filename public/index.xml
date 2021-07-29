@@ -6,7 +6,7 @@
     <description>Recent content on Brandon L. Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 02 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -104,10 +104,10 @@ Biomedical researchers have long argued that racial differences in testosterone 
     
     <item>
       <title></title>
-      <link>/publications/</link>
+      <link>/to_add/publications/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>/to_add/publications/</guid>
       <description>Publications Kramer, B.L. (2020). &amp;ldquo;The Molecularization of Race in Testosterone Research.&amp;rdquo; BioSocieties. [Impact Factor = 3.083] [GitHub Repo] [Project Abstract]
 Wotecki, C. E., Kramer, B. L., Lancaster, V. &amp;amp; Cohen, S. (2020). “Impacts and Echoes: The Lasting Influence of the White House Conference on Food, Nutrition and Health.” Annual Review of Nutrition. [Impact Factor = 10.897] [GitHub Repo] [Project Abstract]
 Carlin, L. &amp;amp; Kramer, B.L. (2020). “Hair, Hormones &amp;amp; Ghosts: How Race is Submerged in Polycystic Ovary Syndrome.</description>
@@ -119,7 +119,17 @@ Carlin, L. &amp;amp; Kramer, B.L. (2020). “Hair, Hormones &amp;amp; Ghosts: Ho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Computational Social Scientists  Email - GitHub   Hi, I am Brandon Kramer and I’m currently a Postdoctoral Research Associate in the Social and Decision Analytics Division at the University of Virginia’s Biocomplexity Institute. Generally, I research innovation and inequality at the intersection of science, technology, and health.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Computational Social Scientist  Email - GitHub   Hi, I am Brandon Kramer and I’m currently a Postdoctoral Research Associate in the Social and Decision Analytics Division at the University of Virginia’s Biocomplexity Institute. Generally, I research innovation and inequality at the intersection of science, technology, and health.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Publications Kramer, B.L. (2020). “The Molecularization of Race in Testosterone Research.” BioSocieties. [Impact Factor = 3.083] [GitHub Repo] [Project Abstract]
+Wotecki, C. E., Kramer, B. L., Lancaster, V. &amp;amp; Cohen, S. (2020). “Impacts and Echoes: The Lasting Influence of the White House Conference on Food, Nutrition and Health.” Annual Review of Nutrition.</description>
     </item>
     
     <item>
@@ -144,6 +154,16 @@ Part 1 - Part 2 - Part 3 - Part 4 - Part 5 - Part 6 - Part 7
 Using Web of Science Data for Social Network Analysis in Gephi
  
  Course Syllabus  Sociology of Medicine and Healthcare (Rutgers - Fall 2017)</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Mentoring &amp;amp; Teaching Experience 
+Rutgers University - Department of Sociology Over the past five years, I have taught and mentored in a variety of contexts, but my experience is a bit unconventional from most social scientists. During my time at Rutgers University, I was an Instructor for the Sociology of Medicine and Health Care for two semesters (Spring-Fall 2017) as well as a teaching assistant for Contemporary Sociological Theory (Spring 2016) and Introduction to Sociological Research Methods (Fall 2016).</description>
     </item>
     
     <item>
