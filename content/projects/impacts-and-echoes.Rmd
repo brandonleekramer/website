@@ -1,5 +1,5 @@
 ---
-title: "Impacts and Echoes"
+title: "Impacts and Echoes (The History of Nutrition Science in the US)"
 description: "In this collaboration with Cathie Woteki (UVA/Iowa State), Vicki Lancaster (UVA) and Sam Cohen, we analyze the implications of the 1969 White House Conference on Food, Nutrition and Health."
 date: 2020-02-14
 tags: ["policy research","health","nlp","viz"]

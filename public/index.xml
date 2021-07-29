@@ -12,26 +12,6 @@
     
     
     <item>
-      <title>Racialization in Testosterone Research</title>
-      <link>/projects/race-in-testosterone-research/</link>
-      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/race-in-testosterone-research/</guid>
-      <description>Kramer, B.L. (2020) “The Molecularization of Race in Testosterone Research.” BioSocieties. GitHub Repo.
-While feminist science studies scholars have documented the misleading and dangerous implica-tions of reducing testosterone to a “sex hormone,” few studies have explored how testosterone is used to racialize populations in and beyond scientific research. In this article, I conduct a content analysis of 149 studies that evaluate population differences in testosterone. Despite widespread claims that testosterone varies between racial groups, my analysis of this literature provides scant evidence to support these proclamations, undermining the notion that testosterone contributes to racial differences in biomedical and biosocial outcomes.</description>
-    </item>
-    
-    <item>
-      <title>The Growth of Diversity in Biomedical Research</title>
-      <link>/projects/diversity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/diversity/</guid>
-      <description>Kramer, B. &amp;amp; Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
-  While existing research on race and affirmative action have detailed the growth of diversity projects in education and employment that obfuscate the language of race and racism, the field of science &amp;amp; technology studies have documented scientists persistent attempts to molecularize race in biomedical research. In this paper, we employ computational text analysis to examine quantitative trends in the use of diversity terms, OMB/Census terms, and other population labels in a sample of 2.</description>
-    </item>
-    
-    <item>
       <title>Measuring the Scope and Impact of Open-Source Software</title>
       <link>/projects/oss/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
@@ -41,23 +21,24 @@ While feminist science studies scholars have documented the misleading and dange
     </item>
     
     <item>
-      <title>Gentrification in Fairfax County, VA</title>
-      <link>/projects/gentrification/</link>
+      <title>The Rise of Diversity in Biomedical Research</title>
+      <link>/projects/diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/gentrification/</guid>
-      <description>Pristavec. P., Kramer, B. L., &amp;amp; Goldstein, J. “Using Publically Available Data to Understand Neighborhood Change and Mitigate Gentrification: A Case Study from Fairfax County, VA.” [GitHub Repo]
-  Gentrification refers to the process of areas experiencing an influx of affluent or college-educated residents and businesses, leading to displacement of long-term residents and vulnerable populations. Although research documents gentrification extensively, local governments often lack resources to detect its emergence and mitigate negative community impacts.</description>
+      <guid>/projects/diversity/</guid>
+      <description>Kramer, B. &amp;amp; Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
+ Visit the Project Website Here
+ Recent scholarship has highlighted the rise of “diversity projects” across various educational and business contexts, but few studies have detailed what the discourse of diversity does within biomedical research. In this paper, we employ computational text analysis to examine quantitative trends in the use of various forms of diversity and population terminology in a sample of ~2.</description>
     </item>
     
     <item>
-      <title>Molecularization at the Intersections</title>
-      <link>/projects/dissertation/</link>
-      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      <title>Racialization in Testosterone Research</title>
+      <link>/projects/race-in-testosterone-research/</link>
+      <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/projects/dissertation/</guid>
-      <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
-Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
+      <guid>/projects/race-in-testosterone-research/</guid>
+      <description>Kramer, B.L. (2020) “The Molecularization of Race in Testosterone Research.” BioSocieties. GitHub Repo.
+While feminist science studies scholars have documented the misleading and dangerous implica-tions of reducing testosterone to a “sex hormone,” few studies have explored how testosterone is used to racialize populations in and beyond scientific research. In this article, I conduct a content analysis of 149 studies that evaluate population differences in testosterone. Despite widespread claims that testosterone varies between racial groups, my analysis of this literature provides scant evidence to support these proclamations, undermining the notion that testosterone contributes to racial differences in biomedical and biosocial outcomes.</description>
     </item>
     
     <item>
@@ -71,7 +52,18 @@ In this paper, we examine how polycystic ovary syndrome (PCOS) is racialized in 
     </item>
     
     <item>
-      <title>Masculinity &amp; Stress</title>
+      <title>Using Predictive Analytics to Study Gentrification</title>
+      <link>/projects/gentrification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/gentrification/</guid>
+      <description>Pristavec. P., Kramer, B. L., &amp;amp; Goldstein, J. “Using Publically Available Data to Understand Neighborhood Change and Mitigate Gentrification: A Case Study from Fairfax County, VA.” [GitHub Repo]
+ 
+ Gentrification refers to the process of areas experiencing an influx of affluent or college-educated residents and businesses, leading to displacement of long-term residents and vulnerable populations. Although research documents gentrification extensively, local governments often lack resources to detect its emergence and mitigate negative community impacts.</description>
+    </item>
+    
+    <item>
+      <title>Measuring Stress Reactivity to Masculinity Threats</title>
       <link>/projects/masculinity-and-stress/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       
@@ -81,7 +73,7 @@ In this study, we use an experimental framework to fill three existing gaps in t
     </item>
     
     <item>
-      <title>Impacts and Echoes</title>
+      <title>Impacts and Echoes (The History of Nutrition Science in the US)</title>
       <link>/projects/impacts-and-echoes/</link>
       <pubDate>Fri, 14 Feb 2020 00:00:00 +0000</pubDate>
       
@@ -101,6 +93,16 @@ Despite considerable interest in strategies for promoting evidence-informed poli
     </item>
     
     <item>
+      <title>Molecularization at the Intersections (Dissertation)</title>
+      <link>/projects/dissertation/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/dissertation/</guid>
+      <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
+Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
+    </item>
+    
+    <item>
       <title></title>
       <link>/publications/</link>
       <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
@@ -117,7 +119,7 @@ Carlin, L. &amp;amp; Kramer, B.L. (2020). “Hair, Hormones &amp;amp; Ghosts: Ho
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Social Scientist / Data Scientist  Email - GitHub   Brandon Kramer, Ph.D. is a Postdoctoral Research Associate in the Social and Decision Analytics Division at the University of Virginia’s Biocomplexity Institute. Generally, I am interested in researching issues related to ethics and inequality at the intersection of science, technology, politics, and health.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Computational Social Scientists  Email - GitHub   Hi, I am Brandon Kramer and I’m currently a Postdoctoral Research Associate in the Social and Decision Analytics Division at the University of Virginia’s Biocomplexity Institute. Generally, I research innovation and inequality at the intersection of science, technology, and health.</description>
     </item>
     
     <item>
@@ -136,10 +138,12 @@ Carlin, L. &amp;amp; Kramer, B.L. (2020). “Hair, Hormones &amp;amp; Ghosts: Ho
       
       <guid>/resources/</guid>
       <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Online Tutorials  Making Websites in Hugo/Blogdown
-Full DSPG Training - 8-Minute Version
+Quick Version
 Mindware Cardiovascular Data Cleaning Tutorial
 Part 1 - Part 2 - Part 3 - Part 4 - Part 5 - Part 6 - Part 7
-Using Web of Science Data for Social Network Analysis in Gephi</description>
+Using Web of Science Data for Social Network Analysis in Gephi
+ 
+ Course Syllabus  Sociology of Medicine and Healthcare (Rutgers - Fall 2017)</description>
     </item>
     
     <item>

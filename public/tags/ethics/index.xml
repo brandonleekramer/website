@@ -12,6 +12,17 @@
     
     
     <item>
+      <title>The Rise of Diversity in Biomedical Research</title>
+      <link>/projects/diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/diversity/</guid>
+      <description>Kramer, B. &amp;amp; Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
+ Visit the Project Website Here
+ Recent scholarship has highlighted the rise of “diversity projects” across various educational and business contexts, but few studies have detailed what the discourse of diversity does within biomedical research. In this paper, we employ computational text analysis to examine quantitative trends in the use of various forms of diversity and population terminology in a sample of ~2.</description>
+    </item>
+    
+    <item>
       <title>Racialization in Testosterone Research</title>
       <link>/projects/race-in-testosterone-research/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
@@ -22,36 +33,6 @@ While feminist science studies scholars have documented the misleading and dange
     </item>
     
     <item>
-      <title>The Growth of Diversity in Biomedical Research</title>
-      <link>/projects/diversity/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/diversity/</guid>
-      <description>Kramer, B. &amp;amp; Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research” In Progress. [Project Website] [GitHub Repo]
-  While existing research on race and affirmative action have detailed the growth of diversity projects in education and employment that obfuscate the language of race and racism, the field of science &amp;amp; technology studies have documented scientists persistent attempts to molecularize race in biomedical research. In this paper, we employ computational text analysis to examine quantitative trends in the use of diversity terms, OMB/Census terms, and other population labels in a sample of 2.</description>
-    </item>
-    
-    <item>
-      <title>Gentrification in Fairfax County, VA</title>
-      <link>/projects/gentrification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/gentrification/</guid>
-      <description>Pristavec. P., Kramer, B. L., &amp;amp; Goldstein, J. “Using Publically Available Data to Understand Neighborhood Change and Mitigate Gentrification: A Case Study from Fairfax County, VA.” [GitHub Repo]
-  Gentrification refers to the process of areas experiencing an influx of affluent or college-educated residents and businesses, leading to displacement of long-term residents and vulnerable populations. Although research documents gentrification extensively, local governments often lack resources to detect its emergence and mitigate negative community impacts.</description>
-    </item>
-    
-    <item>
-      <title>Molecularization at the Intersections</title>
-      <link>/projects/dissertation/</link>
-      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/dissertation/</guid>
-      <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
-Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
-    </item>
-    
-    <item>
       <title>Hair, Hormones, and Haunting</title>
       <link>/projects/pcos/</link>
       <pubDate>Mon, 24 Feb 2020 00:00:00 +0000</pubDate>
@@ -59,6 +40,27 @@ Biomedical researchers have long argued that racial differences in testosterone 
       <guid>/projects/pcos/</guid>
       <description>Carlin, L. &amp;amp; Kramer, B.L. (2020). “Hair, Hormones &amp;amp; Ghosts: How Race is Submerged in Polycystic Ovary Syndrome.” Science, Technology &amp;amp; Human Values. (Impact Factor = 3.160).
 In this paper, we examine how polycystic ovary syndrome (PCOS) is racialized in biomedical research. Drawing from Star’s seminal concept of triangulation, we analyze how the diagnostic criteria for PCOS combine two different biomarkers: body hair and testosterone. Hair and hormones are both haunted by their use in eugenic research, and as clinical measures, they can carry forward powerful narratives of biological difference.</description>
+    </item>
+    
+    <item>
+      <title>Using Predictive Analytics to Study Gentrification</title>
+      <link>/projects/gentrification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/gentrification/</guid>
+      <description>Pristavec. P., Kramer, B. L., &amp;amp; Goldstein, J. “Using Publically Available Data to Understand Neighborhood Change and Mitigate Gentrification: A Case Study from Fairfax County, VA.” [GitHub Repo]
+ 
+ Gentrification refers to the process of areas experiencing an influx of affluent or college-educated residents and businesses, leading to displacement of long-term residents and vulnerable populations. Although research documents gentrification extensively, local governments often lack resources to detect its emergence and mitigate negative community impacts.</description>
+    </item>
+    
+    <item>
+      <title>Molecularization at the Intersections (Dissertation)</title>
+      <link>/projects/dissertation/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/dissertation/</guid>
+      <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
+Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
     </item>
     
   </channel>

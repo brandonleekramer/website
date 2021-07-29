@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5 {
 
 Making Websites in Hugo/Blogdown
 
-[Full DSPG Training](https://youtu.be/2oQMCdAtfm8) - [8-Minute Version](https://www.youtube.com/watch?v=5nFmzO1fWzI)
+[Quick Version](https://www.youtube.com/watch?v=5nFmzO1fWzI)
 
 Mindware Cardiovascular Data Cleaning Tutorial
 

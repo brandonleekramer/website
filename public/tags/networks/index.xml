@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Measuring the Scope and Impact of Open-Source Software</title>
+      <link>/projects/oss/</link>
+      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/oss/</guid>
+      <description>Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public.</description>
+    </item>
+    
+    <item>
       <title>Racialization in Testosterone Research</title>
       <link>/projects/race-in-testosterone-research/</link>
       <pubDate>Sat, 15 Feb 2020 00:00:00 +0000</pubDate>
@@ -22,25 +31,6 @@ While feminist science studies scholars have documented the misleading and dange
     </item>
     
     <item>
-      <title>Measuring the Scope and Impact of Open-Source Software</title>
-      <link>/projects/oss/</link>
-      <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/oss/</guid>
-      <description>Current economic indicators and indicators developed by the National Center for Science &amp;amp; Engineering Statistics (NCSES) do not measure the value of goods and services that fall outside of market transactions. Although NCSES does track some types of software development, it is challenging to account for open source software (OSS) outputs because these products are largely being advanced outside of traditional business contexts. Moreover, while current measures of innovation tend to rely on survey data, patent issues, trademarks approvals, intangible asset data, or estimates of total factor productivity growth, these measures are either incomplete or fail to capture innovation that is freely available to the public.</description>
-    </item>
-    
-    <item>
-      <title>Molecularization at the Intersections</title>
-      <link>/projects/dissertation/</link>
-      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/projects/dissertation/</guid>
-      <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
-Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
-    </item>
-    
-    <item>
       <title>Evidence Exchange in Federal Policymaking</title>
       <link>/projects/evidence-exchange/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
@@ -48,6 +38,16 @@ Biomedical researchers have long argued that racial differences in testosterone 
       <guid>/projects/evidence-exchange/</guid>
       <description>Kramer, B., Weber, M. &amp;amp; Yanovitsky, I. Networks of Evidence Use in the Context of Federal Childhood Obesity Policymaking. In Progress. [GitHub Repo] [EPIK website]
 Despite considerable interest in strategies for promoting evidence-informed policymaking, research that tracks and analyzes use of research evidence in public policymaking is scarce. We use social network analysis to trace the flow of research evidence in the context of childhood obesity legislation from 2000-2014. Network analysis is used to examine how political homophily, or policymakers’ shared group affiliations, and various structural characteristics of the policy network influence evidence exchange over this period.</description>
+    </item>
+    
+    <item>
+      <title>Molecularization at the Intersections (Dissertation)</title>
+      <link>/projects/dissertation/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/dissertation/</guid>
+      <description>Kramer, B. L. (2019). Molecularization at the Intersections: Testosterone, Prostate Cancer and the Construction of Racial Difference (Doctoral dissertation, Rutgers University-School of Graduate Studies).
+Biomedical researchers have long argued that racial differences in testosterone can help explain why African American men have an elevated risk of developing prostate cancer compared to their white counterparts. Using insights from science &amp;amp; technology studies, critical race theory and social network analysis, this dissertation interrogates the linkages between race, testosterone and prostate cancer, showing how testosterone has become racialized in scientific research and the impact that this process has had on the construction of racial disparities in prostate cancer.</description>
     </item>
     
   </channel>

@@ -3,7 +3,7 @@ title: "Hair, Hormones, and Haunting"
 description: "In this collaborative paper with Liz Carlin (CUNY), we examine how polycystic ovary syndrome is racialized in biomedical research."
 date: 2020-02-24 
 tags: ["sts", "race", "gender", "health", "qualitative","ethics"]
-weight: 5
+weight: 4
 draft: false
 output: html_document
 ---
