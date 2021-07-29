@@ -1,6 +1,6 @@
 ---
 title: "Evidence Exchange in Federal Policymaking"
-description: "This ongoing collaboration with Matthew Weber (Minnesota) and Itzhak Yanovitzky (Rutgers) uses discourse analysis and network analysis to follow how policymakers exchange evidence in congressional hearings."
+description: "This ongoing collaboration with Matthew Weber and Itzhak Yanovitzky (Rutgers) uses discourse analysis and network analysis to follow how policymakers exchange evidence in congressional hearings."
 tags: ["policy research", "networks", "qualitative"]
 date: 2019-12-01
 weight: 50
