@@ -7,12 +7,12 @@ draft: false
 output: html_document
 ---
 
-**Kramer, B. & Lee, C. "The Rise of Diversity and Population Terminology in Biomedical Research" *In Progress.* [[Project Website](https://growthofdiversity.netlify.app/)] [[GitHub Repo](https://github.com/brandonleekramer/diversity)]** 
+**Kramer, B. & Lee, C. "The Rise of Diversity and Population Terminology in Biomedical Research" *In Progress.* [[Project Website](https://riseofdiversity.netlify.app/)] [[GitHub Repo](https://github.com/brandonleekramer/diversity)]** 
 
 <center>
 ![](/projects/diversity_files/diversity-network.png)
 
-[Visit the Project Website Here](https://growthofdiversity.netlify.app/)
+[Visit the Project Website Here](https://riseofdiversity.netlify.app/)
 
 </center>
 
