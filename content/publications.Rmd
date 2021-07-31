@@ -31,6 +31,20 @@ Keller, S., Pristavec. P., Kramer, B. L., Montalvo, C., Shipp, S., Dorius, C., L
 
 Pristavec. P., Kramer, B. L., & Goldstein, J. “Modeling Neighborhood Change to Mitigate Gentrification: A Case Study of Fairfax County, VA.” *Draft Available.*
 
-Moradi-Jamei, B. Kramer, B.L., Calderón, J.B.S., & Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” *Draft Available.*
+Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” *Draft Available.*
 
 Gitre, E., Kramer, B. L., Dawson, C., & Korkmaz, G. “Using Text Networks to Examine American Soldier’s Perspectives on Racial Segregation during World War II.” *Draft Available.*
+
+<br>
+
+#### <ins>**Other Public-Facing Work**</ins>
+
+Kramer, B. L., Santiago Calderón, J.B., & Korkmaz, G. “U.S.-International Collaborations in Open-Source Software: 2018.” (forthcoming) *Invention, Knowledge Transfer, and Innovation. Science and Engineering Indicators (2022).* Official Report Published by the National Center for Science and Engineering Statistics.
+
+Santiago Calderón, J.B., Kramer, B. L., & Korkmaz, G. “Cumulative Contribution to U.S. Federal Departments and Agencies to Open-Source Software on GitHub: 2010-2019.” (forthcoming) *Invention, Knowledge Transfer, and Innovation. Science and Engineering Indicators (2022).* Official Report Published by the National Center for Science and Engineering Statistics.
+
+Kramer, B. L., Lancaster, V., and Moltavo, C. (2020) ["Three-State Comparison: Virginia, Iowa, and Oregon."](https://uva-bi-sdad.github.io/three-state-comparison/) Contextual Report for [UVA Biocomplexity & Gates Foundation Economic Mobility Shiny App]((https://dspgtools.shinyapps.io/EM-Data-Infrastructure/))
+
+Tobin, E., Cong, C., Halewicz, V., Neville, Q., Pristavec, T., Goldstein, J., Kramer, B. L., Shipp, S., Tobin, J. (2020) [“Creating CommunityScapes: Using Data Science to Inform Evidence-Based Health Policy.”](https://www.methodspace.com/creating-communityscapes-using-data-science-to-inform-evidence-based-health-policy/) MethodSpace. SAGE Publishing. 
+
+Cong, C., Isch, C., Tobin, E., Korkmaz, G., Santiago Calderón, J. B., Schroeder, A. and Kramer, B. L. (2020) [“Open Source: The Future of Software Innovation.”](https://www.methodspace.com/open-source-the-future-of-software-innovation/) MethodSpace. SAGE Publishing. 
