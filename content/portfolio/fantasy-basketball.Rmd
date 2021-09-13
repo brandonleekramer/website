@@ -1,0 +1,92 @@
+---
+title: "Fantasy Basketball"
+description: "This is an overview of a fantasy basketball project I have had developed to help with projections, trades, and overall value calculations."
+tags: ["sports","predictive modeling"]
+weight: 1
+draft: false
+output: html_document
+---
+
+<center>
+
+### Fantasy Basketball Background 
+
+</center>
+
+Fantasy basketball is one of my favorite hobbies. I started playing in 2018 as a welcome distraction while writing my dissertation, and this expanded to a few leagues after graduating. While many people play fantasy for money, I try to limit it to a fun hobby where I get to meet people from around the world to chat about the NBA and many other interesting things. While I was getting into fantasy, I was also learning how to code. To help with my development of both activities, I developed a number of software tools to help me win my fantasy leagues. Below, I detail a number of these tools and outline a case study of a team that I rebuilt from a near last-place team to a championship team this past year. 
+
+Without going into too much detail, you need to know a few things about this culture. Like in the real NBA, my leagues have 30 teams and each team has 15 players with 2 additional players that sit in the "minor league" slots. All players accrue value by accounting for their stats in NBA games. Some leagues are based on categories, but my leagues are based on points. For example, if a player gets a rebound, we count that as 2 points. If they block a shot or get a steal, they get 2.5 points. Each league accounts for points in a slightly different way, but the overall point is to get players that score the most points. Because this is a relatively easy format, we make things a bit more complicated by having contracts attached to each player. During the (off)season, we bid on players and ultimately try to collect as many good players as possible while still staying under the salary cap. This overall format means that you can evaluate the value of players by quantifying the amount of points they score relative to their contract value. Over the past two years, I've developed a few different metrics to evaluate this as well as a number of another tools that help me evaluate trades and team/player projections.
+
+<center>
+
+### Fantasy Tools 
+
+</center>
+
+
+
+
+<center>
+
+### Data and Package Setup 
+
+</center>
+
+In my standard evaluations, I depend on four data sources. My league plays on the [Fantrax](https://www.fantrax.com/) platform, which provides a page with player rankings, current stats, and the team that they are on within the fantasy league. Second, our league keeps track of all the contracts for each player in a spreadsheet. Third, I integrate the schedule of all NBA teams to know how many games each player has each week as well as the days that those games are on. Lastly, at the beginning of each season, I download preseason predictions of how many points players will score from a website named [Hashtag Basketball](https://hashtagbasketball.com/). Together, these data form the basis of my projection and trade tools.
+
+```{r, warning=FALSE, message=FALSE, results=FALSE}
+rm(list = ls())
+library("tidyverse")
+library("janitor")
+library("plotly")
+
+source("~/Documents/fantasy-basketball/funs/fantasy-basketball-functions.R")
+
+setwd("~/Documents/fantasy-basketball/data/nba_fantasy_data/")
+hashtag20 <- read_csv("nba_fantasy_data - 2020_hashtag_proj_clean.csv") %>% 
+  clean_nba_names(player) %>% 
+  hashtag_avgs_to_fppg() %>% 
+  select(player, contains("fppg"))
+
+franchise_contracts <- read_csv("nba_fantasy_data - franchise_contracts_202021.csv") %>% 
+  clean_nba_names(player) 
+
+franchise_inseason <- read_csv("Fantrax-Players-FranchiseNBA.csv") %>% 
+  rename(fntx_pts = "PTS", fntx_orb = "OREB", fntx_dreb = "DREB", 
+         fntx_ast = "AST", fntx_stl = "ST", fntx_blk = "BLK", 
+         fntx_tov = "TO", fntx_threes = "3PTM", fntx_fga = "FGA", 
+         fntx_fgm = "FGM", fntx_ftm = "FTM", fntx_fta = "FTA", 
+         fntx_gms = "GP", fntx_fppg = "FP/G", nba_team = "Team", 
+         trade_comp = "Plumlee", 
+         fr_team = "Status", player = "Player", position = "Position") %>%
+  mutate(nba_team = recode(nba_team, PHO = "PHX", SA = "SAS", 
+                           NY = "NYK", NO = "NOP", GS = "GSW")) %>% 
+  clean_nba_names(player) 
+
+nba_schedule <- read_csv("nba_fantasy_data - 202021_nba_schedule.csv")
+
+# join all projections 
+select_data <- hashtag20 %>% 
+  #full_join(hashtag20, by = "player") %>% 
+  full_join(franchise_contracts, by = "player") %>% 
+  full_join(franchise_inseason, by = "player") %>% 
+  arrange(-fr_fppg_ht) %>% 
+  select(player, fr_team, fr_fppg_ht, FPts, fntx_fppg, everything(), 
+         -ld_fppg_ht, -botb_fppg_ht, -gsd2_fppg_ht, -fr_position) %>% 
+  left_join(nba_schedule, by = "nba_team")
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
