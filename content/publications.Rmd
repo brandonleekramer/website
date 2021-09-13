@@ -23,7 +23,7 @@ Kramer, B.L., Himmelstein, M.S., & Springer, K.W. (2017). Getting to the Heart o
 
 <br>
 
-#### <ins>**Peer-Reviewed Conference Proceedings**</ins>
+#### <ins>**Peer-Reviewed Conference Proceedings**</ins> 
 
 Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” *Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.*
 

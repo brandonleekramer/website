@@ -3,8 +3,8 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>predictive modeling</title>
-        <link rel="canonical" href="/tags/predictive-modeling/">
+        <title>Fantasy Basketball</title>
+        <link rel="canonical" href="/portfolio/fantasy-basketball/">
         <style>
 
     html body {
@@ -96,8 +96,8 @@ $(document).ready(function(){
 });
 </script>
  <meta name="generator" content="Hugo 0.69.2" />
-        <link href="/tags/predictive-modeling/index.xml" rel="alternate" type="application/rss+xml" title="Brandon L. Kramer, Ph.D." />
-        <link href="/tags/predictive-modeling/index.xml" rel="feed" type="application/rss+xml" title="Brandon L. Kramer, Ph.D." />
+        <link href="" rel="alternate" type="application/rss+xml" title="Brandon L. Kramer, Ph.D." />
+        <link href="" rel="feed" type="application/rss+xml" title="Brandon L. Kramer, Ph.D." />
         
 
     
@@ -113,14 +113,14 @@ $(document).ready(function(){
     
     
     
-    <meta property="og:title" content="predictive modeling">
+    <meta property="og:title" content="Fantasy Basketball">
     <meta property="og:type" content="article">
       
       <meta name="twitter:card" content="summary">
       <meta name="twitter:image" content="/favicon/blk-cropped.png" >
       
-    <meta property="description" content="">
-    <meta property="og:description" content="">
+    <meta property="description" content="This is an overview of a fantasy basketball project I have had developed to help with projections, trades, and overall value calculations.">
+    <meta property="og:description" content="This is an overview of a fantasy basketball project I have had developed to help with projections, trades, and overall value calculations.">
     
     <meta name="twitter:creator" content="">
     <meta name="twitter:site" content="">
@@ -138,7 +138,7 @@ $(document).ready(function(){
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand visible-xs" href="#">predictive modeling</a>
+                    <a class="navbar-brand visible-xs" href="#">Fantasy Basketball</a>
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -191,86 +191,110 @@ $(document).ready(function(){
         </nav>
 
 <main>
-    <h2>predictive modeling</h2>
+
+    <div class="item">
 
     
-        
-            <div class="item">
+    
     
 
+    
+      
+      
+    
 
-
-
-
-  
-  
-
-
-<h4><a href="/portfolio/fantasy-basketball/">Fantasy Basketball</a></h4>
+    <h4><a href="/portfolio/fantasy-basketball/">Fantasy Basketball</a></h4>
     
     <h5>This is an overview of a fantasy basketball project I have had developed to help with projections, trades, and overall value calculations.</h5>
+
     
     
     <a href="/tags/sports">
         <kbd class="item-tag"> sports </kbd>
-            </a>
-            
+    </a>
+    
     <a href="/tags/predictive-modeling">
         <kbd class="item-tag"> predictive modeling </kbd>
-            </a>
-            
-        
-        </div>
-            
-        
-    
-        
-            <div class="item">
+    </a>
     
 
+</div>
 
 
+    <br> <div class="text-justify">
 
 
-  
-  
+<center>
+<div id="fantasy-basketball-background" class="section level3">
+<h3>Fantasy Basketball Background</h3>
+</center>
+<p>Fantasy basketball is one of my favorite hobbies. I started playing in 2018 as a welcome distraction while writing my dissertation, and this expanded to a few leagues after graduating. While many people play fantasy for money, I try to limit it to a fun hobby where I get to meet people from around the world to chat about the NBA and many other interesting things. While I was getting into fantasy, I was also learning how to code. To help with my development of both activities, I developed a number of software tools to help me win my fantasy leagues. Below, I detail a number of these tools and outline a case study of a team that I rebuilt from a near last-place team to a championship team this past year.</p>
+<p>Without going into too much detail, you need to know a few things about this culture. Like in the real NBA, my leagues have 30 teams and each team has 15 players with 2 additional players that sit in the “minor league” slots. All players accrue value by accounting for their stats in NBA games. Some leagues are based on categories, but my leagues are based on points. For example, if a player gets a rebound, we count that as 2 points. If they block a shot or get a steal, they get 2.5 points. Each league accounts for points in a slightly different way, but the overall point is to get players that score the most points. Because this is a relatively easy format, we make things a bit more complicated by having contracts attached to each player. During the (off)season, we bid on players and ultimately try to collect as many good players as possible while still staying under the salary cap. This overall format means that you can evaluate the value of players by quantifying the amount of points they score relative to their contract value. Over the past two years, I’ve developed a few different metrics to evaluate this as well as a number of another tools that help me evaluate trades and team/player projections.</p>
+<center>
+</div>
+<div id="fantasy-tools" class="section level3">
+<h3>Fantasy Tools</h3>
+</center>
+<center>
+</div>
+<div id="data-and-package-setup" class="section level3">
+<h3>Data and Package Setup</h3>
+</center>
+<p>In my standard evaluations, I depend on four data sources. My league plays on the <a href="https://www.fantrax.com/">Fantrax</a> platform, which provides a page with player rankings, current stats, and the team that they are on within the fantasy league. Second, our league keeps track of all the contracts for each player in a spreadsheet. Third, I integrate the schedule of all NBA teams to know how many games each player has each week as well as the days that those games are on. Lastly, at the beginning of each season, I download preseason predictions of how many points players will score from a website named <a href="https://hashtagbasketball.com/">Hashtag Basketball</a>. Together, these data form the basis of my projection and trade tools.</p>
+<pre class="r"><code>rm(list = ls())
+library(&quot;tidyverse&quot;)
+library(&quot;janitor&quot;)
+library(&quot;plotly&quot;)
 
+source(&quot;~/Documents/fantasy-basketball/funs/fantasy-basketball-functions.R&quot;)
 
-<h4><a href="/projects/gentrification/">Using Predictive Analytics to Study Gentrification</a></h4>
+setwd(&quot;~/Documents/fantasy-basketball/data/nba_fantasy_data/&quot;)
+hashtag20 &lt;- read_csv(&quot;nba_fantasy_data - 2020_hashtag_proj_clean.csv&quot;) %&gt;% 
+  clean_nba_names(player) %&gt;% 
+  hashtag_avgs_to_fppg() %&gt;% 
+  select(player, contains(&quot;fppg&quot;))
+
+franchise_contracts &lt;- read_csv(&quot;nba_fantasy_data - franchise_contracts_202021.csv&quot;) %&gt;% 
+  clean_nba_names(player) 
+
+franchise_inseason &lt;- read_csv(&quot;Fantrax-Players-FranchiseNBA.csv&quot;) %&gt;% 
+  rename(fntx_pts = &quot;PTS&quot;, fntx_orb = &quot;OREB&quot;, fntx_dreb = &quot;DREB&quot;, 
+         fntx_ast = &quot;AST&quot;, fntx_stl = &quot;ST&quot;, fntx_blk = &quot;BLK&quot;, 
+         fntx_tov = &quot;TO&quot;, fntx_threes = &quot;3PTM&quot;, fntx_fga = &quot;FGA&quot;, 
+         fntx_fgm = &quot;FGM&quot;, fntx_ftm = &quot;FTM&quot;, fntx_fta = &quot;FTA&quot;, 
+         fntx_gms = &quot;GP&quot;, fntx_fppg = &quot;FP/G&quot;, nba_team = &quot;Team&quot;, 
+         trade_comp = &quot;Plumlee&quot;, 
+         fr_team = &quot;Status&quot;, player = &quot;Player&quot;, position = &quot;Position&quot;) %&gt;%
+  mutate(nba_team = recode(nba_team, PHO = &quot;PHX&quot;, SA = &quot;SAS&quot;, 
+                           NY = &quot;NYK&quot;, NO = &quot;NOP&quot;, GS = &quot;GSW&quot;)) %&gt;% 
+  clean_nba_names(player) 
+
+nba_schedule &lt;- read_csv(&quot;nba_fantasy_data - 202021_nba_schedule.csv&quot;)
+
+# join all projections 
+select_data &lt;- hashtag20 %&gt;% 
+  #full_join(hashtag20, by = &quot;player&quot;) %&gt;% 
+  full_join(franchise_contracts, by = &quot;player&quot;) %&gt;% 
+  full_join(franchise_inseason, by = &quot;player&quot;) %&gt;% 
+  arrange(-fr_fppg_ht) %&gt;% 
+  select(player, fr_team, fr_fppg_ht, FPts, fntx_fppg, everything(), 
+         -ld_fppg_ht, -botb_fppg_ht, -gsd2_fppg_ht, -fr_position) %&gt;% 
+  left_join(nba_schedule, by = &quot;nba_team&quot;)</code></pre>
+</div>
+</div>
+
     
-    <h5>This is a collaborative project where my team at the UVA Biocomplexity Institute used predictive modeling to examine and hopefully mitigate gentrification risk across Fairfax County, VA.</h5>
     
+
     
-    <a href="/tags/geospatial">
-        <kbd class="item-tag"> geospatial </kbd>
-            </a>
-            
-    <a href="/tags/policy-research">
-        <kbd class="item-tag"> policy research </kbd>
-            </a>
-            
-    <a href="/tags/predictive-modeling">
-        <kbd class="item-tag"> predictive modeling </kbd>
-            </a>
-            
-    <a href="/tags/viz">
-        <kbd class="item-tag"> viz </kbd>
-            </a>
-            
-    <a href="/tags/ethics">
-        <kbd class="item-tag"> ethics </kbd>
-            </a>
-            
-        
-        </div>
-            
-        
+
     
+
     
+
+    
+
 </main>
-
-
-
 
         <footer id = "bigfooter">
             <div style = "padding:15px;">
