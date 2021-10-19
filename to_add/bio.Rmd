@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+author: "Brandon L. Kramer"
+date: "10/19/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Other Collaborative Research 
+
+In my present role at the UVA Biocomplexity Institute, I spend most of his time working in a multidisciplinary team science environment. Since graduating, Brandon has worked on collaborative projects - both in and outside of UVA - that examine [international collaboration networks in open-source software development](/projects/oss/), [the political history of nutrition science](/projects/impacts-and-echoes/), [the rise of "diversity" in biomedical research](/projects/diversity/), [the use of predictive modeling to evaluate risk of gentrification and emerging employment areas](/projects/gentrification/), and [a project investing how built infrastructure shapes economic mobility across three states](https://dspgtools.shinyapps.io/EM-Data-Infrastructure/). In the Fall of 2021, I will start collobating as key personnal on a multi-institutional team project that address environmental precarity and saltwater desalination on the Eastern Virginian shores. 
+
+Before moving to Biocomplexity, I collaborated with several research groups in graduate school. Using an experimental framework, my colleagues Kristen Springer (Rutgers), Mary Himmelstein (Kent State) and I studied how masculinity threats impact young men's biological stress reactivity as well as the impact that this may have gendered disparities in health outcomes. During this project, I became interested in how scientific practices and technologies shape biomedical knowledge production. To supplement this biosocial training, I worked under Guggenheim fellows Rebecca Jordan-Young (Barnard) and Katrina Karkazis (Amherst), getting exposure to qualitative methods like interviews and content analysis as well as feminist and critical race frameworks, while contributing as a research fellow for their [National Science Foundation-funded book project on testosterone](https://www.amazon.com/Testosterone-Unauthorized-Biography-Rebecca-Jordan-Young/dp/067472532). 
+
+Shortly after this, I collaborated on a William T. Grant-supported project working with Matthew Weber and Itzhak Yanovitzky (Rutgers) on a project that applied statistical and inferential social network analysis to examine policymakers’ use of evidence in the context of childhood obesity legislation. Finally, I served as a research fellow on a National Institute of Drug Abuse-funded project with Kathryn Greene (Rutgers) and Michael Hecht (Real Prevention LLC) testing an interactive technology-based substance use intervention. Overall, this breadth of work shows that I can draw on a range of qualitative and computational tools to address research questions at the intersection of science, technology, policy, and health. You can find links to my past work in the [projects tab](/projects) or check out his coding on [GitHub](https://github.com/brandonleekramer).

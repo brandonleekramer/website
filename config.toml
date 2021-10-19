@@ -33,7 +33,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.main]]
-    url = "/Kramer_CV_0721.pdf"
+    url = "/Kramer_CV_1021.pdf"
     name = "CV"
     weight = 2
 
@@ -48,7 +48,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 4
 
 [[menu.main]]
-    url = "/Kramer_Resume_0721.pdf"
+    url = "/Kramer_Resume_DS_1021.pdf"
     name = "Resume"
     weight = 5
 

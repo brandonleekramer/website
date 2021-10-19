@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Fantasy Basketball</title>
-      <link>/portfolio/fantasy-basketball/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/portfolio/fantasy-basketball/</guid>
-      <description>Fantasy Basketball Background  Fantasy basketball is one of my favorite hobbies. I started playing in 2018 as a welcome distraction while writing my dissertation, and this expanded to a few leagues after graduating. While many people play fantasy for money, I try to limit it to a fun hobby where I get to meet people from around the world to chat about the NBA and many other interesting things.</description>
-    </item>
-    
-    <item>
       <title>The Rise of Diversity in Biomedical Research</title>
       <link>/projects/diversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -113,22 +104,11 @@ Biomedical researchers have long argued that racial differences in testosterone 
     
     <item>
       <title></title>
-      <link>/to_add/publications/</link>
-      <pubDate>Sat, 02 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/to_add/publications/</guid>
-      <description>Publications Kramer, B.L. (2020). &amp;ldquo;The Molecularization of Race in Testosterone Research.&amp;rdquo; BioSocieties. [Impact Factor = 3.083] [GitHub Repo] [Project Abstract]
-Wotecki, C. E., Kramer, B. L., Lancaster, V. &amp;amp; Cohen, S. (2020). “Impacts and Echoes: The Lasting Influence of the White House Conference on Food, Nutrition and Health.” Annual Review of Nutrition. [Impact Factor = 10.897] [GitHub Repo] [Project Abstract]
-Carlin, L. &amp;amp; Kramer, B.L. (2020). “Hair, Hormones &amp;amp; Ghosts: How Race is Submerged in Polycystic Ovary Syndrome.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Computational Social Scientist  Email - GitHub   Hi, I am Brandon Kramer and I’m currently a Postdoctoral Research Associate in the Social and Decision Analytics Division at the University of Virginia’s Biocomplexity Institute. Generally, I research innovation and inequality at the intersection of science, technology, and health.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Computational Social Scientist  Email - GitHub   Hi, I am Brandon Kramer and I’m currently a Postdoctoral Research Associate at the University of Virginia’s Biocomplexity Institute. Generally, I have a background researching ethics and inequality in science, tech, and health. While I am trained as a sociologist, I have spent the last two years working as an applied data science working with stakeholders from a number of industries to collect data, build models, and develop software that helps to address the concerns of diverse populations.</description>
     </item>
     
     <item>
@@ -173,19 +153,6 @@ Using Web of Science Data for Social Network Analysis in Gephi
       <guid>/teaching/</guid>
       <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Mentoring &amp;amp; Teaching Experience 
 Rutgers University - Department of Sociology Over the past five years, I have taught and mentored in a variety of contexts, but my experience is a bit unconventional compared to most social scientists. During my time at Rutgers University, I was an Instructor for the Sociology of Medicine and Health Care for two semesters (Spring-Fall 2017) as well as a teaching assistant for Contemporary Sociological Theory (Spring 2016) and Introduction to Sociological Research Methods (Fall 2016).</description>
-    </item>
-    
-    <item>
-      <title>Untitled</title>
-      <link>/to_add/trainings/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/to_add/trainings/</guid>
-      <description> DSPG https://datascienceforthepublicgood.org/events/symposium2020 https://dspg-young-scholars-program.github.io/dspg20oss/ https://dspg-young-scholars-program.github.io/dspg20fairfax/ https://dspg-young-scholars-program.github.io/dspg2020amsoldier/ https://teja.shinyapps.io/patrickdash/
- Biosocial training Embed links for training videos
- Networks Basic network training video Getting started in Gephi Making visuals in Gephi
- Websites Download templates Editing CSS and html Deploying to GitHub pages Deploying to Netlify
- Links to courses  </description>
     </item>
     
   </channel>
