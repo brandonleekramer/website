@@ -117,8 +117,8 @@ Biomedical researchers have long argued that racial differences in testosterone 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Publications Kramer, B.L. (2020). “The Molecularization of Race in Testosterone Research.” BioSocieties. [Impact Factor = 3.083] [GitHub Repo] [Project Abstract]
-Wotecki, C. E., Kramer, B. L., Lancaster, V. &amp;amp; Cohen, S. (2020). “Impacts and Echoes: The Lasting Influence of the White House Conference on Food, Nutrition and Health.” Annual Review of Nutrition.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Publications and Peer-Reviewed Conference Proceedings Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., &amp;amp; Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.
+Kramer, B.L. (2020). “The Molecularization of Race in Testosterone Research.</description>
     </item>
     
     <item>
@@ -153,6 +153,15 @@ Using Web of Science Data for Social Network Analysis in Gephi
       <guid>/teaching/</guid>
       <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Mentoring &amp;amp; Teaching Experience 
 Rutgers University - Department of Sociology Over the past five years, I have taught and mentored in a variety of contexts, but my experience is a bit unconventional compared to most social scientists. During my time at Rutgers University, I was an Instructor for the Sociology of Medicine and Health Care for two semesters (Spring-Fall 2017) as well as a teaching assistant for Contemporary Sociological Theory (Spring 2016) and Introduction to Sociological Research Methods (Fall 2016).</description>
+    </item>
+    
+    <item>
+      <title>Packages</title>
+      <link>/packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/packages/</guid>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    tidyorgs tidyorgs is an R package that detects and standardizes organizations in unstructured text data     diverstidy diverstidy is an R package designed for detection and standardization of geographic, population, and diversity-related terminology in unstructured text data     GHOST.jl GHOST.jl, short for GitHub Open-Source Tracker, is a Julia package for targeted scraping of GitHub user and activity data  (I designed the hex sticker and helped write the paper for the package, but didn’t contribute to source code on GHOST.</description>
     </item>
     
   </channel>

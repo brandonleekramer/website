@@ -9,7 +9,9 @@ h1, h2, h3, h4, h5 {
 }
 ```
 
-#### <ins>**Publications**</ins> 
+#### <ins>**Publications and Peer-Reviewed Conference Proceedings**</ins> 
+
+Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” *Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.*
 
 Kramer, B.L. (2020). "The Molecularization of Race in Testosterone Research." [*BioSocieties.*](https://link.springer.com/article/10.1057/s41292-020-00200-w) [Impact Factor = 3.083] [[GitHub Repo](https://github.com/brandonleekramer/race-in-testosterone-research)] [[Project Abstract](/projects/race-in-testosterone-research/)]
 
@@ -23,19 +25,13 @@ Kramer, B.L., Himmelstein, M.S., & Springer, K.W. (2017). Getting to the Heart o
 
 <br>
 
-#### <ins>**Peer-Reviewed Conference Proceedings**</ins> 
-
-Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” *Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.*
-
-<br>
-
 #### <ins>**Papers Under Review**</ins> 
 
+Gitre, E., Kramer, B. L., Dawson, C., & Korkmaz, G. “Across the Color Line: Using Text Networks to Examine Black and White US Soldiers’ Views on Race and Segregation during World War II.” *Revise and Resubmit at Current Research in Digital History.* [Project Website](https://dspg-young-scholars-program.github.io/dspg20amsoldier) Available.
+
+Pristavec. P., Kramer, B. L., & Goldstein, J. “Modeling Neighborhood Change to Mitigate Gentrification: A Case Study of Fairfax County, VA.”  *Revise and Resubmit at Urban Studies.*
+
 Kramer, B. L. & Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research.” *Draft and [Project Website](https://riseofdiversity.netlify.app/) Available.*
-
-Gitre, E., Kramer, B. L., Dawson, C., & Korkmaz, G. “Across the Color Line: Using Text Networks to Examine Black and White US Soldiers’ Views on Race and Segregation during World War II.” *Draft and [Project Website](https://dspg-young-scholars-program.github.io/dspg20amsoldier) Available.*
-
-Pristavec. P., Kramer, B. L., & Goldstein, J. “Modeling Neighborhood Change to Mitigate Gentrification: A Case Study of Fairfax County, VA.” *Draft Available.*
 
 Keller, S., Pristavec. P., Kramer, B. L., Montalvo, C., Shipp, S., Dorius, C., Lancaster, V., Lambur, M., Linehan, Van Selous, K., Stockham, M., Voss, M., & Saimun, H. “A Review of Data Underlying Community-Based Research.” *Draft Available.* 
 

@@ -1,0 +1,38 @@
+---
+title: "Packages"
+output: html_document
+---
+
+```{css, echo=FALSE}
+/* this chunnk of code centers all of the headings */
+h1, h2, h3, h4, h5 {
+  text-align: center;
+}
+```
+
+
+<center>
+![](/./packages_files/tidyorgs_logo.png)
+</center>
+
+## [tidyorgs](https://github.com/brandonleekramer/tidyorgs) 
+
+##### [tidyorgs](https://github.com/brandonleekramer/tidyorgs) is an R package that detects and standardizes organizations in unstructured text data {style=text-align:center}
+
+<center>
+![](/./packages_files/diverstidy_final.png)
+</center>
+
+## [diverstidy](https://github.com/brandonleekramer/diverstidy)
+
+##### [diverstidy](https://github.com/brandonleekramer/diverstidy) is an R package designed for detection and standardization of geographic, population, <br>and diversity-related terminology in unstructured text data {style=text-align:center}
+
+<center>
+![](/./packages_files/ghost_hex.png)
+</center>
+
+## [GHOST.jl](https://github.com/uva-bi-sdad/GHOST.jl)
+
+##### [GHOST.jl](https://github.com/uva-bi-sdad/GHOST.jl), short for GitHub Open-Source Tracker, is a Julia package <br>for targeted scraping of GitHub user and activity data
+
+##### (I designed the hex sticker and helped write the paper for the package, <br>but didn't contribute to source code on GHOST.jl.)
