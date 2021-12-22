@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Brandon L. Kramer, Ph.D.</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on Brandon L. Kramer, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/blog/radicle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/radicle/</guid>
+      <description>Thoughts on Radicle vs GitHub Economic Challenges for the US Government
+https://radicle.xyz/blog/collaborating-on-radicle.html https://docs.radicle.xyz/docs/understanding-radicle/how-it-works
+Conducting Science on the Web3
+https://cen.acs.org/people/profiles/argument-using-blockchain-secure-scientific/96/i46
+https://www.digital-science.com/press-release/digital-science-and-katalysis-lead-initiative-to-explore-blockchain-technologies-for-peer-review/
+Using Knowledge Graphs in Web3
+https://neo4j.com/developer-blog/defi-knowledge-graph-with-neo4j/</description>
+    </item>
+    
+  </channel>
+</rss>

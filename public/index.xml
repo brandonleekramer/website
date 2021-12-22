@@ -108,7 +108,22 @@ Biomedical researchers have long argued that racial differences in testosterone 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Email - GitHub   Hi, my name is Brandon Kramer and I’m a computational social scientist based at the University of Virginia’s Biocomplexity Institute. While my background is in sociology, I meld insights from data science, economics, and design to research innovation and ethics in science and tech.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Email - GitHub   Hi, my name is Brandon Kramer and I’m a User Experience (UX) Researcher at Edge &amp;amp; Node. While I was formally trained as a sociologist, I incorporate insights from data science, science &amp;amp; technology studies, philosophy, economics, and design into my research approach.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/blog/radicle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/radicle/</guid>
+      <description>Thoughts on Radicle vs GitHub Economic Challenges for the US Government
+https://radicle.xyz/blog/collaborating-on-radicle.html https://docs.radicle.xyz/docs/understanding-radicle/how-it-works
+Conducting Science on the Web3
+https://cen.acs.org/people/profiles/argument-using-blockchain-secure-scientific/96/i46
+https://www.digital-science.com/press-release/digital-science-and-katalysis-lead-initiative-to-explore-blockchain-technologies-for-peer-review/
+Using Knowledge Graphs in Web3
+https://neo4j.com/developer-blog/defi-knowledge-graph-with-neo4j/</description>
     </item>
     
     <item>

@@ -1,0 +1,19 @@
+---
+output: html_document
+---
+
+Thoughts on Radicle vs GitHub 
+Economic Challenges for the US Government 
+
+https://radicle.xyz/blog/collaborating-on-radicle.html
+https://docs.radicle.xyz/docs/understanding-radicle/how-it-works
+
+Conducting Science on the Web3 
+
+https://cen.acs.org/people/profiles/argument-using-blockchain-secure-scientific/96/i46
+
+https://www.digital-science.com/press-release/digital-science-and-katalysis-lead-initiative-to-explore-blockchain-technologies-for-peer-review/
+
+Using Knowledge Graphs in Web3
+
+https://neo4j.com/developer-blog/defi-knowledge-graph-with-neo4j/
