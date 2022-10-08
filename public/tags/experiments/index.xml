@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>experiments on Brandon L. Kramer, Ph.D.</title>
+    <title>experiments on Brandon Kramer, Ph.D.</title>
     <link>/tags/experiments/</link>
-    <description>Recent content in experiments on Brandon L. Kramer, Ph.D.</description>
+    <description>Recent content in experiments on Brandon Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/experiments/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/experiments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring Stress Reactivity to Masculinity Threats</title>
       <link>/projects/masculinity-and-stress/</link>

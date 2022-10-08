@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brandon L. Kramer, Ph.D.</title>
+    <title>Brandon Kramer, Ph.D.</title>
     <link>/</link>
-    <description>Recent content on Brandon L. Kramer, Ph.D.</description>
+    <description>Recent content on Brandon Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Measuring the Scope and Impact of Open-Source Software</title>
       <link>/projects/oss/</link>
@@ -108,7 +104,7 @@ Biomedical researchers have long argued that racial differences in testosterone 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Email - GitHub   Hi, my name is Brandon Kramer and I’m a User Experience (UX) Researcher at Edge &amp;amp; Node. While I was formally trained as a sociologist, I incorporate insights from data science, science &amp;amp; technology studies, philosophy, economics, and design into my research approach.</description>
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }    Brandon Kramer, Ph.D. Email - GitHub   Hi, my name is Brandon Kramer and I’m a User Experience (UX) Researcher at Edge &amp;amp; Node and The Graph protocol. While I was formally trained as a sociologist, I used my background to advance decentralized technologies in the blockchain industry.</description>
     </item>
     
     <item>
@@ -132,7 +128,7 @@ https://neo4j.com/developer-blog/defi-knowledge-graph-with-neo4j/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Publications and Peer-Reviewed Conference Proceedings Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., &amp;amp; Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.
+      <description>/* this chunnk of code centers all of the headings */ h1, h2, h3, h4, h5 { text-align: center; }  Publications and Peer-Reviewed Conference Proceedings Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., &amp;amp; Korkmaz, G. (2021). “Community Formation and the Detection of GitHub Collaboration Networks.” Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.
 Kramer, B.L. (2020). “The Molecularization of Race in Testosterone Research.</description>
     </item>
     

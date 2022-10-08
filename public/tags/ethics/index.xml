@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ethics on Brandon L. Kramer, Ph.D.</title>
+    <title>ethics on Brandon Kramer, Ph.D.</title>
     <link>/tags/ethics/</link>
-    <description>Recent content in ethics on Brandon L. Kramer, Ph.D.</description>
+    <description>Recent content in ethics on Brandon Kramer, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ethics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Rise of Diversity in Biomedical Research</title>
       <link>/projects/diversity/</link>

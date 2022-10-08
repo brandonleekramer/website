@@ -11,7 +11,7 @@ h1, h2, h3, h4, h5 {
 
 #### <ins>**Publications and Peer-Reviewed Conference Proceedings**</ins> 
 
-Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. “Community Formation and the Detection of GitHub Collaboration Networks.” *Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.*
+Moradi-Jamei, B. Kramer, B.L., Santiago Calderón, J.B., & Korkmaz, G. (2021). “Community Formation and the Detection of GitHub Collaboration Networks.” *Proceedings of the 2021 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining.*
 
 Kramer, B.L. (2020). "The Molecularization of Race in Testosterone Research." [*BioSocieties.*](https://link.springer.com/article/10.1057/s41292-020-00200-w) [Impact Factor = 3.083] [[GitHub Repo](https://github.com/brandonleekramer/race-in-testosterone-research)] [[Project Abstract](/projects/race-in-testosterone-research/)]
 
@@ -27,26 +27,26 @@ Kramer, B.L., Himmelstein, M.S., & Springer, K.W. (2017). Getting to the Heart o
 
 #### <ins>**Papers Under Review**</ins> 
 
-Gitre, E., Kramer, B. L., Dawson, C., & Korkmaz, G. “Across the Color Line: Using Text Networks to Examine Black and White US Soldiers’ Views on Race and Segregation during World War II.” *Revise and Resubmit at Current Research in Digital History.* [Project Website](https://dspg-young-scholars-program.github.io/dspg20amsoldier) Available.
+Gitre, E., Kramer, B. L., Dawson, C., & Korkmaz, G. “Across the Color Line: Using Text Networks to Examine Black and White US Soldiers’ Views on Race and Segregation during World War II.” *Forthcoming at Current Research in Digital History.* [Project Website](https://dspg-young-scholars-program.github.io/dspg20amsoldier) Available.
 
-Pristavec. P., Kramer, B. L., & Goldstein, J. “Modeling Neighborhood Change to Mitigate Gentrification: A Case Study of Fairfax County, VA.”  *Revise and Resubmit at Urban Studies.*
+Weber, M., Kramer, B. L., Yanovitsky, I. “Networks of Evidence Use in the Context of Federal Childhood Obesity Policymaking.” *Under Review.*
+
+Korkmaz, G., Santiago Calderón, J.B.,Kramer, B. L., Guci, L., & Robbins, C. “Measuring the Cost of Open Source Software Innovation on GitHub.” *Under Review.*
 
 Kramer, B. L. & Lee, C. “The Rise of Diversity and Population Terminology in Biomedical Research.” *Draft and [Project Website](https://riseofdiversity.netlify.app/) Available.*
-
-Keller, S., Pristavec. P., Kramer, B. L., Montalvo, C., Shipp, S., Dorius, C., Lancaster, V., Lambur, M., Linehan, Van Selous, K., Stockham, M., Voss, M., & Saimun, H. “A Review of Data Underlying Community-Based Research.” *Draft Available.* 
-
-Glenn, S., Greene, K., Ray A., Kramer, B. L., Lyons, R. & Hecht, M. “The Relationship Between Social Media Use and Substance Use: Results from a Study of REAL media.” *Draft Available.*
 
 <br>
 
 #### <ins>**Other Public-Facing Work**</ins>
 
-Kramer, B. L., Santiago Calderón, J.B., & Korkmaz, G. “U.S.-International Collaborations in Open-Source Software: 2018.” (forthcoming) *Invention, Knowledge Transfer, and Innovation. Science and Engineering Indicators (2022).* Official Report Published by the National Center for Science and Engineering Statistics.
+Pristavec. P., Kramer, B. L., & Goldstein, J. (2022). “Modeling Neighborhood Change to Mitigate Gentrification: A Case Study of Fairfax County, VA.” *[UVA Libra Open System.](https://libraopen.lib.virginia.edu/public_view/t435gd018)*  
 
-Santiago Calderón, J.B., Kramer, B. L., & Korkmaz, G. “Cumulative Contribution to U.S. Federal Departments and Agencies to Open-Source Software on GitHub: 2010-2019.” (forthcoming) *Invention, Knowledge Transfer, and Innovation. Science and Engineering Indicators (2022).* Official Report Published by the National Center for Science and Engineering Statistics.
+Kramer, B. L., Santiago Calderón, J.B., & Korkmaz, G. “U.S.-International Collaborations in Open-Source Software: 2018.” (2022). *Invention, Knowledge Transfer, and Innovation. Science and Engineering Indicators (2022).* Official Report Published by the National Center for Science and Engineering Statistics.
 
-Kramer, B. L., Lancaster, V., and Moltavo, C. (2020) ["Three-State Comparison: Virginia, Iowa, and Oregon."](https://uva-bi-sdad.github.io/three-state-comparison/) Contextual Report for [UVA Biocomplexity & Gates Foundation Economic Mobility Shiny App]((https://dspgtools.shinyapps.io/EM-Data-Infrastructure/))
+Santiago Calderón, J.B., Kramer, B. L., & Korkmaz, G. “Cumulative Contribution to U.S. Federal Departments and Agencies to Open-Source Software on GitHub: 2010-2019.” (2022). *Invention, Knowledge Transfer, and Innovation. Science and Engineering Indicators (2022).* Official Report Published by the National Center for Science and Engineering Statistics.
 
-Tobin, E., Cong, C., Halewicz, V., Neville, Q., Pristavec, T., Goldstein, J., Kramer, B. L., Shipp, S., Tobin, J. (2020) [“Creating CommunityScapes: Using Data Science to Inform Evidence-Based Health Policy.”](https://www.methodspace.com/creating-communityscapes-using-data-science-to-inform-evidence-based-health-policy/) MethodSpace. SAGE Publishing. 
+Kramer, B. L., Lancaster, V., and Moltavo, C. (2020). ["Three-State Comparison: Virginia, Iowa, and Oregon."](https://uva-bi-sdad.github.io/three-state-comparison/) Contextual Report for [UVA Biocomplexity & Gates Foundation Economic Mobility Shiny App]((https://dspgtools.shinyapps.io/EM-Data-Infrastructure/))
 
-Cong, C., Isch, C., Tobin, E., Korkmaz, G., Santiago Calderón, J. B., Schroeder, A. and Kramer, B. L. (2020) [“Open Source: The Future of Software Innovation.”](https://www.methodspace.com/open-source-the-future-of-software-innovation/) MethodSpace. SAGE Publishing. 
+Tobin, E., Cong, C., Halewicz, V., Neville, Q., Pristavec, T., Goldstein, J., Kramer, B. L., Shipp, S., Tobin, J. (2020). [“Creating CommunityScapes: Using Data Science to Inform Evidence-Based Health Policy.”](https://www.methodspace.com/creating-communityscapes-using-data-science-to-inform-evidence-based-health-policy/) MethodSpace. SAGE Publishing. 
+
+Cong, C., Isch, C., Tobin, E., Korkmaz, G., Santiago Calderón, J. B., Schroeder, A. and Kramer, B. L. (2020). [“Open Source: The Future of Software Innovation.”](https://www.methodspace.com/open-source-the-future-of-software-innovation/) MethodSpace. SAGE Publishing. 

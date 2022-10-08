@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Brandon L. Kramer, Ph.D."
-description = "Brandon L. Kramer, PhD - Postdoctoral Research Associate, Biocomplexity Institute, University of Virginia"
+title = "Brandon Kramer, Ph.D."
+description = "Brandon Kramer, PhD"
 theme = "min_night"
 disqusShortname = ""
 googleAnalytics = ""
@@ -14,11 +14,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
 
 [params]
     author = "Brandon Kramer"
-    description = "Computational Social Scientist"
+    description = "Blockchain Researcher"
     logo = "favicon/blk-cropped.png"
     twitterAuthor = "@brandonlkramer"
     githubUsername = "brandonleekramer"
-    accent = "#386890" # dark colors do best
+    accent = "#581F87" # dark colors do best
     backgroundColor = "#FFFFFF"
     font = "Oxygen" # should match the name on Google Fonts!
     highlight = true
@@ -33,7 +33,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     weight = 1
 
 [[menu.main]]
-    url = "/Kramer_CV_1221.pdf"
+    url = "/Kramer_CV_1022.pdf"
     name = "CV"
     weight = 2
 
@@ -86,3 +86,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "public/"]
     name = "fab fa-linkedin"
     weight = 4
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
